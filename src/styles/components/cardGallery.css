@@ -1,13 +1,18 @@
 .card-gallery__ctn{
-  margin: 0 auto;
-  padding: 30px 20px;
-  max-width: 1100px;
+  margin: 30px auto;
+  max-width: 1000px;
+  border-radius: 10px;
+  border: 1px solid #cdcdcd;
+  background-color: #ffffff;
+  padding-bottom: 20px;
 }
 
 .card-gallery__top{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding:  20px 30px;
+  border-bottom: 1px solid #cdcdcd;
 }
 
 .card-gallery__links-ctn > ul{
@@ -48,4 +53,11 @@
   right: 0;
   top: 50%;
   transform: translateY(-50%);
+}
+
+.card-gallery__cards-ctn{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
 }
