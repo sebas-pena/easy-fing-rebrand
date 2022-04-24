@@ -1,13 +1,14 @@
 nav.navbar__ctn > ul {
   display: flex;
+  gap: 10px;
   justify-content: center;
-  gap: 25px;
   border-bottom: 2px solid #e6e6e6;
+  background-color: #fff;
 }
 
 
 nav.navbar__ctn > ul > li{
-  border-radius: 4px;
+  width: 110px;
   overflow: hidden;
   margin-bottom: -2px;
 }
@@ -16,8 +17,13 @@ nav.navbar__ctn > ul > li > a{
   padding: 10px 20px;
   color: #1b4a8b;
   font-weight: 500;
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.3s ease-in-out;
 }
 
+nav.navbar__ctn > ul > li:hover > a{
+  border-bottom: 2px solid #2c67b9;
+}
 nav.navbar__ctn > ul > li > a.active{
   border-bottom: 2px solid #1b4a8b;
 }

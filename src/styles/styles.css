@@ -6,6 +6,7 @@
 
 @import "./components/header.css";
 @import "./components/navBar.css";
-
+@import "./components/footer.css";
+@import "./components/cardGallery.css";
 
 /* PAGES */

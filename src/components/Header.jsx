@@ -1,3 +1,4 @@
+import NavBar from "./NavBar"
 import logo from "../assets/images/logo.png"
 
 const Header = () => {
@@ -5,7 +6,8 @@ const Header = () => {
 		<>
 			<header className="header__ctn">
 				<img className="header__img" src={logo} alt="logo" />
-				<h2 className="header__phrase">La FING hecha fácil</h2>
+				<h2 className="header__phrase">La FING hecha fácil.</h2>
+				<NavBar />
 			</header>
 		</>
 	)

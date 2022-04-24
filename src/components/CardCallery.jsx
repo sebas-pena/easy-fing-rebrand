@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom"
 import Card from "./Card"
+import { SearchIcon } from "./Icons"
 
 const Cardsgallery = ({ cards = [], path = ["hola", "como", "estas"] }) => {
 	const handleInputChange = (e) => {
@@ -7,21 +8,31 @@ const Cardsgallery = ({ cards = [], path = ["hola", "como", "estas"] }) => {
 		return e.target.value
 	}
 	return (
-		<section>
+		<section className="card-gallery__ctn">
 			<div className="card-gallery__top">
 				<div className="card-gallery__links-ctn">
-					<Link to="/">Instituto:</Link>
-					{path.map((item, index, array) => (
-						<Link key={index} to={`/${array.slice(0, index + 1).join("/")}`}>
-							{item}
-						</Link>
-					))}
+					<ul>
+						<li>
+							<Link to="/">Instituto:</Link>
+						</li>
+						{path.map((item, index, array) => (
+							<li key={index + item}>
+								<Link to={`/${array.slice(0, index + 1).join("/")}`}>
+									{item}
+								</Link>
+							</li>
+						))}
+					</ul>
 				</div>
-				<input
-					type="text"
-					placeholder="Buscar..."
-					onChange={handleInputChange}
-				/>
+				<div className="card-gallery__search-ctn">
+					<input
+						type="text"
+						placeholder="Buscar..."
+						className="card-gallery__search"
+						onChange={handleInputChange}
+					/>
+					<SearchIcon size="20" color="#333" />
+				</div>
 			</div>
 			<div className="card-gallery__ctn">
 				{cards.map((card) => (
