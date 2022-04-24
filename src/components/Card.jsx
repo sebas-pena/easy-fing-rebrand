@@ -1,12 +1,13 @@
-import logo from "../assets/images/inco-logo.png"
-const Card = ({ heading }) => {
+const Card = ({ imageUrl, heading }) => {
+  const parsedImageUrl = `/content/images/${imageUrl}`
+
   return (
     <div className="card__ctn">
       <div className="card__img-ctn">
-        <img src={logo} alt="logo" className="card__img" />
+        <img src={parsedImageUrl} alt="logo" className="card__img" />
       </div>
       <div className="card__text-ctn">
-        <h3 className="card__title">Inco</h3>
+        <h3 className="card__title">{heading}</h3>
         <p className="card__text"></p>
       </div>
     </div>

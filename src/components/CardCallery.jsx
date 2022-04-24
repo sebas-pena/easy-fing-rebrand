@@ -1,12 +1,13 @@
 import { Link } from "react-router-dom"
 import Card from "./Card"
 import { SearchIcon } from "./Icons"
-
+import institutesData from "../data/institutes"
 const Cardsgallery = ({ cards = [], path = ["hola", "como", "estas"] }) => {
   const handleInputChange = (e) => {
-    console.log(e.target.value)
     return e.target.value
   }
+  const { institutes } = institutesData
+  console.log(institutes)
   return (
     <section className="card-gallery__ctn">
       <div className="card-gallery__top">
@@ -35,14 +36,12 @@ const Cardsgallery = ({ cards = [], path = ["hola", "como", "estas"] }) => {
         </div>
       </div>
       <div className="card-gallery__cards-ctn">
-        <Card />
-        <Card />
-        <Card />
-        <Card />
-        <Card />
-        <Card />
-        {cards.map((card) => (
-          <Card key={card.id} card={card} path={path} />
+        {institutes.map((institute) => (
+          <Card
+            key={institute.title}
+            imageUrl={institute.imageUrl}
+            heading={institute.title}
+          />
         ))}
       </div>
     </section>
