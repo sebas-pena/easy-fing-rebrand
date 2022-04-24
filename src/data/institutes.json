@@ -1,0 +1,54 @@
+{
+	"institutes": [
+		{
+			"instituteId": "1",
+			"instituteName": "Instituto de Computación",
+			"instituteCode": "INCO"
+		},
+		{
+			"instituteId": "2",
+			"instituteName": "Instituto de Agrimensura",
+			"instituteCode": "IA"
+		},
+		{
+			"instituteId": "3",
+			"instituteName": "Instituto de Ensayo y Materiales",
+			"instituteCode": "IEM"
+		},
+		{
+			"instituteId": "5",
+			"instituteName": "Instituto de Física",
+			"instituteCode": "IFFI"
+		},
+		{
+			"instituteId": "6",
+			"instituteName": "Instituto de Ingeniería Eléctrica ",
+			"instituteCode": "IIE"
+		},
+		{
+			"instituteId": "7",
+			"instituteName": "Instituto de Ingeniería Mecánica y Producción Industrial",
+			"instituteCode": "IIMPI"
+		},
+		{
+			"instituteId": "8",
+			"instituteName": "Instituto de Mecánica de los Fluidos e Ingeniería Ambiental",
+			"instituteCode": "IMFIA"
+		},
+		{
+			"instituteId": "9",
+			"instituteName": "Instituto de Matemática y Estadística Rafael Laguardia",
+			"instituteCode": "IMERL"
+		},
+		{
+			"instituteId": "10",
+			"instituteName": "Instituto de Ingeniería Química",
+			"instituteCode": "IIQ"
+		},
+		{
+			"instituteId": "11",
+			"instituteName": "Departamento de Insersión Social del Ingeniero",
+			"instituteCode": "DISI"
+		}
+	]
+}

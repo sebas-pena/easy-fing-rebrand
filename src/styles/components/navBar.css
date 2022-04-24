@@ -1,0 +1,26 @@
+nav.navbar__ctn > ul {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  border-bottom: 2px solid #e6e6e6;
+}
+
+
+nav.navbar__ctn > ul > li{
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: -2px;
+}
+nav.navbar__ctn > ul > li > a{
+  display: block;
+  padding: 10px 20px;
+  color: #1b4a8b;
+  font-weight: 500;
+}
+
+nav.navbar__ctn > ul > li > a.active{
+  border-bottom: 2px solid #1b4a8b;
+}
+nav.navbar__ctn > ul  li  a:visited{
+  text-decoration: none;
+}

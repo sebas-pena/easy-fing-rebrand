@@ -1,0 +1,19 @@
+{
+	"courses": [
+		{
+			"name": "Introduccion al Derecho",
+			"acronym": "INT. al Derecho",
+			"evaUrl": "https://eva.fing.edu.uy/course/view.php?id=1374",
+			"sections": [
+				{
+					"title": "Diapositivas",
+					"files": []
+				},
+				{
+					"title": "Teórico",
+					"files": []
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,27 @@
+header.header__ctn{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+  color: #1D3557;
+  background-color: #fafafc;
+  background: radial-gradient(circle, transparent 20%, #fafafc 20%, #fafafc 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #fafafc 20%, #fafafc 80%, transparent 80%, transparent) 20px 20px, linear-gradient(#eeeefb 1.6px, transparent 1.6px) 0 -0.8px, linear-gradient(90deg, #eeeefb 1.6px, #fafafc 1.6px) -0.8px 0;
+  background-size: 40px 40px, 40px 40px, 20px 20px, 20px 20px;
+}
+
+
+.header__img{
+  align-self: center;
+  width: max-content;
+  height: 100px;
+  margin: 30px 10px;
+
+}
+
+.header__phrase{
+  text-align: center;
+  font-weight: 500;
+  color: #fff;
+  padding: 20px 0;
+  background-color: #1b4a8b;
+}

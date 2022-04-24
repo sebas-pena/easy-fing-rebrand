@@ -1,0 +1,41 @@
+{
+	"courses": [
+		{
+			"name": "Geometía y Álgebra Lineal 1",
+			"acronym": "GAL 1",
+			"evaUrl": {
+				"oddSemester": "https://eva.fing.edu.uy/course/view.php?id=1597",
+				"evenSemester": "https://eva.fing.edu.uy/enrol/index.php?id=1442"
+			},
+			"sections": [
+				{
+					"title": "Examenes",
+					"type": "fileCollection",
+					"files": [
+						{
+							"title": "Examen 1",
+							"url": "https://easyfing.com/Asignaturas/GAL%201/Ex%C3%A1menes/Diciembre%202017.%20Letra.pdf"
+						},
+						{
+							"title": "Examen 1",
+							"url": "https://easyfing.com/Asignaturas/GAL%201/Ex%C3%A1menes/Diciembre%202017.%20Letra.pdf"
+						},
+						{
+							"title": "Examen 1",
+							"url": "https://easyfing.com/Asignaturas/GAL%201/Ex%C3%A1menes/Diciembre%202017.%20Letra.pdf"
+						},
+						{
+							"title": "Examen 1",
+							"url": "https://easyfing.com/Asignaturas/GAL%201/Ex%C3%A1menes/Diciembre%202017.%20Letra.pdf"
+						}
+					]
+				},
+				{
+					"title": "",
+					"type": "section",
+					"sections": []
+				}
+			]
+		}
+	]
+}
