@@ -12,7 +12,7 @@
     background-color: #0348a9;
     color: #fff;
     user-select: none;
-    animation: fadeIn 1s linear;
+    animation: fadeIn .5s linear;
 }
 
 .card__ctn:hover > .card__img-ctn > img{

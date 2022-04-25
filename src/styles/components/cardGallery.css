@@ -19,9 +19,13 @@
   display: flex;
   gap: 10px;
 }
-.card-gallery__links-ctn > ul > li>  a{
+.card-gallery__links-ctn > ul > li>  button{
   color: #1b4a8b;
   font-weight: 500;
+  font-size: 16px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
 }
 .card-gallery__links-ctn > ul > li:not(:last-child):not(:first-child):after{
   content: '>';
