@@ -1,13 +1,19 @@
+import { useState } from "react"
 import { Link } from "react-router-dom"
 import Card from "./Card"
 import { SearchIcon } from "./Icons"
-import institutesData from "../data/institutes"
-const Cardsgallery = ({ cards = [], path = ["hola", "como", "estas"] }) => {
+import rawData from "../data/rawData.json"
+
+const Cardsgallery = () => {
+	const [path, setPath] = useState(["institutes"])
+	const [cards, setCards] = useState(rawData[path[0]])
+
 	const handleInputChange = (e) => {
 		return e.target.value
 	}
-	const { institutes } = institutesData
-	console.log(institutes)
+	const handleChangeGallery = (e) => {
+		return e.target.value
+	}
 	return (
 		<section className="card-gallery__ctn">
 			<div className="card-gallery__top">
@@ -36,9 +42,9 @@ const Cardsgallery = ({ cards = [], path = ["hola", "como", "estas"] }) => {
 				</div>
 			</div>
 			<div className="card-gallery__cards-ctn">
-				{institutes.map((institute) => (
-					<button key={institute.title}>
-						<Card imageUrl={institute.imageUrl} heading={institute.title} />
+				{cards.map((card) => (
+					<button key={card.title} onClick={handleChangeGallery}>
+						<Card imageUrl={card.imageUrl} heading={card.title} />
 					</button>
 				))}
 			</div>

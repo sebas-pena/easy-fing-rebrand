@@ -2,6 +2,7 @@
 .social-networks-list > h3{
   font-weight: 400;
   margin-bottom: 10px;
+  font-size: 1em;
 }
 
 
@@ -16,11 +17,22 @@
   align-items: center;
   gap: 10px;
   color: #000;
-  font-size: 20px;
-
+  font-size: 1em;
 }
 
 .social-networks-list > ul > li > a > img{
   height: 24px;
+}
+.social-networks-list > ul > li > a > span{
+  font-size: 1em;
  
+}
+
+
+
+@media only screen and (max-width: 750px) {
+  .social-networks-list > ul {
+    flex-direction: column;
+  }
+
 }

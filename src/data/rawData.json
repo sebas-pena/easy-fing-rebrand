@@ -1,4173 +1,585 @@
 {
-	"name": "Asignaturas",
-	"type": "folder",
-	"path": "Asignaturas",
-	"items": [
+	"institutes": [
 		{
-			"name": "C\u00e1lculo DIV",
+			"imageUrl": "inco-logo.png",
+			"title": "INCO",
 			"type": "folder",
-			"path": "Asignaturas/C\u00e1lculo DIV",
-			"items": [
+			"children": [
 				{
-					"name": "Ex\u00e1menes",
+					"imageUrl": "inco-logo.png",
+					"title": "Programación 1",
 					"type": "folder",
-					"path": "Asignaturas/C\u00e1lculo DIV/Ex\u00e1menes",
-					"items": [
+					"children": [
 						{
-							"name": "Diciembre 2017. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Ex\u00e1menes/Diciembre 2017. Letra.pdf",
-							"size": 165680
-						},
-						{
-							"name": "Diciembre 2017. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Ex\u00e1menes/Diciembre 2017. Solucion.pdf",
-							"size": 189396
-						},
-						{
-							"name": "Diciembre 2018. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Ex\u00e1menes/Diciembre 2018. Letra.pdf",
-							"size": 160662
-						},
-						{
-							"name": "Diciembre 2018. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Ex\u00e1menes/Diciembre 2018. Solucion.pdf",
-							"size": 233709
-						},
-						{
-							"name": "Diciembre 2019. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Ex\u00e1menes/Diciembre 2019. Letra.pdf",
-							"size": 96075
-						},
-						{
-							"name": "Diciembre 2019. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Ex\u00e1menes/Diciembre 2019. Solucion.pdf",
-							"size": 94862
-						},
-						{
-							"name": "Diciembre 2020. Letra y solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Ex\u00e1menes/Diciembre 2020. Letra y solucion.pdf",
-							"size": 304466
-						},
-						{
-							"name": "Diciembre 2021. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Ex\u00e1menes/Diciembre 2021. Letra.pdf",
-							"size": 168980
-						},
-						{
-							"name": "Diciembre 2021. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Ex\u00e1menes/Diciembre 2021. Solucion.pdf",
-							"size": 118561
-						},
-						{
-							"name": "Febrero 2018. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Ex\u00e1menes/Febrero 2018. Letra.pdf",
-							"size": 190583
-						},
-						{
-							"name": "Febrero 2018. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Ex\u00e1menes/Febrero 2018. Solucion.pdf",
-							"size": 213688
-						},
-						{
-							"name": "Febrero 2019. Letra y solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Ex\u00e1menes/Febrero 2019. Letra y solucion.pdf",
-							"size": 205232
-						},
-						{
-							"name": "Febrero 2020. Letra y solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Ex\u00e1menes/Febrero 2020. Letra y solucion.pdf",
-							"size": 375803
-						},
-						{
-							"name": "Febrero 2020. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Ex\u00e1menes/Febrero 2020. Letra.pdf",
-							"size": 96549
-						},
-						{
-							"name": "Febrero 2020. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Ex\u00e1menes/Febrero 2020. Solucion.pdf",
-							"size": 16048
-						},
-						{
-							"name": "Julio 2018. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Ex\u00e1menes/Julio 2018. Letra.pdf",
-							"size": 172039
-						},
-						{
-							"name": "Julio 2018. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Ex\u00e1menes/Julio 2018. Solucion.pdf",
-							"size": 196056
-						},
-						{
-							"name": "Julio 2019. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Ex\u00e1menes/Julio 2019. Letra.pdf",
-							"size": 136894
-						},
-						{
-							"name": "Julio 2020. Letra y solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Ex\u00e1menes/Julio 2020. Letra y solucion.pdf",
-							"size": 554264
-						}
-					]
-				},
-				{
-					"name": "Parciales",
-					"type": "folder",
-					"path": "Asignaturas/C\u00e1lculo DIV/Parciales",
-					"items": [
-						{
-							"name": "Primeros Parciales",
+							"imageUrl": "examnen.png",
+							"title": "Exámenes",
 							"type": "folder",
-							"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Primeros Parciales",
-							"items": [
-								{
-									"name": "2017 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Primeros Parciales/2017 S.S. Letra.pdf",
-									"size": 161624
-								},
-								{
-									"name": "2017 S.S. Soluci\u00f3n.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Primeros Parciales/2017 S.S. Soluci\u00f3n.pdf",
-									"size": 219073
-								},
-								{
-									"name": "2018 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Primeros Parciales/2018 P.S. Letra.pdf",
-									"size": 166887
-								},
-								{
-									"name": "2018 P.S. Soluci\u00f3n.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Primeros Parciales/2018 P.S. Soluci\u00f3n.pdf",
-									"size": 182220
-								},
-								{
-									"name": "2019 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Primeros Parciales/2019 P.S. Letra.pdf",
-									"size": 569693
-								},
-								{
-									"name": "2019 P.S. Soluci\u00f3n.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Primeros Parciales/2019 P.S. Soluci\u00f3n.pdf",
-									"size": 177136
-								},
-								{
-									"name": "2019 S.S. Letra y soluci\u00f3n.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Primeros Parciales/2019 S.S. Letra y soluci\u00f3n.pdf",
-									"size": 107004
-								},
-								{
-									"name": "2020 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Primeros Parciales/2020 S.S. Letra.pdf",
-									"size": 229504
-								},
-								{
-									"name": "2020 S.S. Soluci\u00f3n.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Primeros Parciales/2020 S.S. Soluci\u00f3n.pdf",
-									"size": 42729
-								},
-								{
-									"name": "2021 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Primeros Parciales/2021 S.S. Letra.pdf",
-									"size": 163891
-								},
-								{
-									"name": "2021 S.S. Soluci\u00f3n.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Primeros Parciales/2021 S.S. Soluci\u00f3n.pdf",
-									"size": 285854
-								}
-							]
+							"children": []
 						},
 						{
-							"name": "Segundos parciales",
+							"imageUrl": "parciales.png",
+							"title": "Parciales",
 							"type": "folder",
-							"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Segundos parciales",
-							"items": [
-								{
-									"name": "2017 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Segundos parciales/2017 S.S. Letra.pdf",
-									"size": 187105
-								},
-								{
-									"name": "2017 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Segundos parciales/2017 S.S. Solucion.pdf",
-									"size": 199018
-								},
-								{
-									"name": "2018 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Segundos parciales/2018 P.S. Letra.pdf",
-									"size": 174090
-								},
-								{
-									"name": "2018 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Segundos parciales/2018 P.S. Solucion.pdf",
-									"size": 189875
-								},
-								{
-									"name": "2018 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Segundos parciales/2018 S.S. Letra.pdf",
-									"size": 130953
-								},
-								{
-									"name": "2018 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Segundos parciales/2018 S.S. Solucion.pdf",
-									"size": 160933
-								},
-								{
-									"name": "2019 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Segundos parciales/2019 P.S. Letra.pdf",
-									"size": 172265
-								},
-								{
-									"name": "2019 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Segundos parciales/2019 P.S. Solucion.pdf",
-									"size": 149105
-								},
-								{
-									"name": "2020 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Segundos parciales/2020 S.S. Letra.pdf",
-									"size": 241531
-								},
-								{
-									"name": "2020 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Segundos parciales/2020 S.S. Solucion.pdf",
-									"size": 42946
-								},
-								{
-									"name": "2021 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Segundos parciales/2021 S.S. Letra.pdf",
-									"size": 152759
-								},
-								{
-									"name": "2021 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIV/Parciales/Segundos parciales/2021 S.S. Solucion.pdf",
-									"size": 117584
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "Pr\u00e1ctico",
-					"type": "folder",
-					"path": "Asignaturas/C\u00e1lculo DIV/Pr\u00e1ctico",
-					"items": [
-						{
-							"name": "Pr\u00e1ctico 01.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Pr\u00e1ctico/Pr\u00e1ctico 01.pdf",
-							"size": 12439221
+							"children": []
 						},
 						{
-							"name": "Pr\u00e1ctico 02.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Pr\u00e1ctico/Pr\u00e1ctico 02.pdf",
-							"size": 20611780
+							"imageUrl": "practicos.png",
+							"title": "Practicos",
+							"type": "folder",
+							"children": []
 						},
 						{
-							"name": "Pr\u00e1ctico 03.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Pr\u00e1ctico/Pr\u00e1ctico 03.pdf",
-							"size": 14473492
+							"imageUrl": "teoricos.png",
+							"title": "Teóricos",
+							"type": "folder",
+							"children": []
 						},
 						{
-							"name": "Pr\u00e1ctico 04.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Pr\u00e1ctico/Pr\u00e1ctico 04.pdf",
-							"size": 11594121
+							"imageUrl": "eva.png",
+							"title": "Eva",
+							"type": "item",
+							"url": "https://eva.fing.edu.uy/course/view.php?id=58"
 						},
 						{
-							"name": "Pr\u00e1ctico 05.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Pr\u00e1ctico/Pr\u00e1ctico 05.pdf",
-							"size": 71926799
-						},
-						{
-							"name": "Pr\u00e1ctico 06.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Pr\u00e1ctico/Pr\u00e1ctico 06.pdf",
-							"size": 36093060
-						},
-						{
-							"name": "Pr\u00e1ctico 07.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Pr\u00e1ctico/Pr\u00e1ctico 07.pdf",
-							"size": 13106257
-						},
-						{
-							"name": "Pr\u00e1ctico 09.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Pr\u00e1ctico/Pr\u00e1ctico 09.pdf",
-							"size": 12694155
-						},
-						{
-							"name": "Pr\u00e1ctico 10.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Pr\u00e1ctico/Pr\u00e1ctico 10.pdf",
-							"size": 21350969
-						},
-						{
-							"name": "Pr\u00e1ctico 11.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Pr\u00e1ctico/Pr\u00e1ctico 11.pdf",
-							"size": 68733386
-						},
-						{
-							"name": "Pr\u00e1ctico 12.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Pr\u00e1ctico/Pr\u00e1ctico 12.pdf",
-							"size": 28497051
-						},
-						{
-							"name": "Pr\u00e1ctico 13.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Pr\u00e1ctico/Pr\u00e1ctico 13.pdf",
-							"size": 71102286
-						},
-						{
-							"name": "Pr\u00e1ctico 14.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Pr\u00e1ctico/Pr\u00e1ctico 14.pdf",
-							"size": 17043670
-						}
-					]
-				},
-				{
-					"name": "Te\u00f3rico",
-					"type": "folder",
-					"path": "Asignaturas/C\u00e1lculo DIV/Te\u00f3rico",
-					"items": [
-						{
-							"name": "Calculus T. M. Apostol.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Te\u00f3rico/Calculus T. M. Apostol.pdf",
-							"size": 32428078
-						},
-						{
-							"name": "Libro del curso CDIV.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Te\u00f3rico/Libro del curso CDIV.pdf",
-							"size": 876896
-						},
-						{
-							"name": "Resumen CDIV primer parcial.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Te\u00f3rico/Resumen CDIV primer parcial.pdf",
-							"size": 202049
-						},
-						{
-							"name": "Resumen CDIV segundo parcial.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/Te\u00f3rico/Resumen CDIV segundo parcial.pdf",
-							"size": 150832
-						}
-					]
-				},
-				{
-					"name": "zEVA",
-					"type": "folder",
-					"path": "Asignaturas/C\u00e1lculo DIV/zEVA",
-					"items": [
-						{
-							"name": "linke.html",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/zEVA/linke.html",
-							"size": 176
-						}
-					]
-				},
-				{
-					"name": "zOpenFing",
-					"type": "folder",
-					"path": "Asignaturas/C\u00e1lculo DIV/zOpenFing",
-					"items": [
-						{
-							"name": "linko.html",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIV/zOpenFing/linko.html",
-							"size": 165
+							"imageUrl": "openfing.png",
+							"title": "Open Fing",
+							"type": "item",
+							"url": "https://open.fing.edu.uy/courses/p1"
 						}
 					]
 				}
 			]
 		},
 		{
-			"name": "C\u00e1lculo DIV.png",
-			"type": "file",
-			"path": "Asignaturas/C\u00e1lculo DIV.png",
-			"size": 224801
-		},
-		{
-			"name": "C\u00e1lculo DIVV",
+			"imageUrl": "disi-logo.png",
+			"title": "DISI",
 			"type": "folder",
-			"path": "Asignaturas/C\u00e1lculo DIVV",
-			"items": [
+			"children": [
 				{
-					"name": "Ex\u00e1menes",
+					"imageUrl": "disi-logo.png",
+					"title": "Intr. al Derecho",
 					"type": "folder",
-					"path": "Asignaturas/C\u00e1lculo DIVV/Ex\u00e1menes",
-					"items": [
+					"children": [
 						{
-							"name": "Agosto 2020. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIVV/Ex\u00e1menes/Agosto 2020. Letra.pdf",
-							"size": 156515
-						},
-						{
-							"name": "Diciembre 2018. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIVV/Ex\u00e1menes/Diciembre 2018. Letra.pdf",
-							"size": 129154
-						},
-						{
-							"name": "Diciembre 2018. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIVV/Ex\u00e1menes/Diciembre 2018. Solucion.pdf",
-							"size": 548380
-						},
-						{
-							"name": "Diciembre 2021. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIVV/Ex\u00e1menes/Diciembre 2021. Letra.pdf",
-							"size": 846758
-						},
-						{
-							"name": "Diciembre 2021. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIVV/Ex\u00e1menes/Diciembre 2021. Solucion.pdf",
-							"size": 388960
-						},
-						{
-							"name": "Febrero 2020. Letra y solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIVV/Ex\u00e1menes/Febrero 2020. Letra y solucion.pdf",
-							"size": 144049
-						},
-						{
-							"name": "Febrero 2021. Letra y solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIVV/Ex\u00e1menes/Febrero 2021. Letra y solucion.pdf",
-							"size": 212071
-						},
-						{
-							"name": "Julio 2018. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIVV/Ex\u00e1menes/Julio 2018. Letra.pdf",
-							"size": 124552
-						},
-						{
-							"name": "Julio 2018. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIVV/Ex\u00e1menes/Julio 2018. Solucion.pdf",
-							"size": 112588
-						},
-						{
-							"name": "Julio 2019. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIVV/Ex\u00e1menes/Julio 2019. Letra.pdf",
-							"size": 123282
-						},
-						{
-							"name": "Julio 2019. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIVV/Ex\u00e1menes/Julio 2019. Solucion.pdf",
-							"size": 129832
-						},
-						{
-							"name": "Julio 2021. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIVV/Ex\u00e1menes/Julio 2021. Letra.pdf",
-							"size": 282710
-						},
-						{
-							"name": "Julio 2021. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIVV/Ex\u00e1menes/Julio 2021. Solucion.pdf",
-							"size": 341769
-						}
-					]
-				},
-				{
-					"name": "Parciales",
-					"type": "folder",
-					"path": "Asignaturas/C\u00e1lculo DIVV/Parciales",
-					"items": [
-						{
-							"name": "Primeros parciales",
+							"imageUrl": "diapositiva.png",
+							"title": "Diapositivas",
 							"type": "folder",
-							"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Primeros parciales",
-							"items": [
-								{
-									"name": "2018 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Primeros parciales/2018 P.S. Letra.pdf",
-									"size": 111100
-								},
-								{
-									"name": "2018 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Primeros parciales/2018 P.S. Solucion.pdf",
-									"size": 156155
-								},
-								{
-									"name": "2018 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Primeros parciales/2018 S.S. Letra.pdf",
-									"size": 145071
-								},
-								{
-									"name": "2018 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Primeros parciales/2018 S.S. Solucion.pdf",
-									"size": 34623
-								},
-								{
-									"name": "2019 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Primeros parciales/2019 P.S. Letra.pdf",
-									"size": 103221
-								},
-								{
-									"name": "2019 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Primeros parciales/2019 P.S. Solucion.pdf",
-									"size": 188433
-								},
-								{
-									"name": "2019 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Primeros parciales/2019 S.S. Letra.pdf",
-									"size": 149903
-								},
-								{
-									"name": "2019 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Primeros parciales/2019 S.S. Solucion.pdf",
-									"size": 159225
-								},
-								{
-									"name": "2020 S.S. Letra (Turno Matutino).pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Primeros parciales/2020 S.S. Letra (Turno Matutino).pdf",
-									"size": 129128
-								},
-								{
-									"name": "2020 S.S. Letra (Turno Vespertino).pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Primeros parciales/2020 S.S. Letra (Turno Vespertino).pdf",
-									"size": 130231
-								},
-								{
-									"name": "2020 S.S. Solucion (Turno Matutino).pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Primeros parciales/2020 S.S. Solucion (Turno Matutino).pdf",
-									"size": 159607
-								},
-								{
-									"name": "2020 S.S. Solucion (Turno Vespertino).pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Primeros parciales/2020 S.S. Solucion (Turno Vespertino).pdf",
-									"size": 314515
-								}
-							]
+							"children": []
 						},
 						{
-							"name": "Segundos parciales",
+							"imageUrl": "parciales.png",
+							"title": "Parciales",
 							"type": "folder",
-							"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Segundos parciales",
-							"items": [
-								{
-									"name": "2018 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Segundos parciales/2018 P.S. Solucion.pdf",
-									"size": 145779
-								},
-								{
-									"name": "2018 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Segundos parciales/2018 S.S. Letra.pdf",
-									"size": 137156
-								},
-								{
-									"name": "2018 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Segundos parciales/2018 S.S. Solucion.pdf",
-									"size": 109060
-								},
-								{
-									"name": "2019 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Segundos parciales/2019 P.S. Letra.pdf",
-									"size": 118020
-								},
-								{
-									"name": "2019 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Segundos parciales/2019 S.S. Letra.pdf",
-									"size": 142427
-								},
-								{
-									"name": "2019 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Segundos parciales/2019 S.S. Solucion.pdf",
-									"size": 389348
-								},
-								{
-									"name": "2020 S.S. Letra y soluci\u00f3n.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Segundos parciales/2020 S.S. Letra y soluci\u00f3n.pdf",
-									"size": 158883
-								},
-								{
-									"name": "2021 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Segundos parciales/2021 P.S. Letra.pdf",
-									"size": 137809
-								},
-								{
-									"name": "2021 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo DIVV/Parciales/Segundos parciales/2021 P.S. Solucion.pdf",
-									"size": 676642
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "Pr\u00e1ctico",
-					"type": "folder",
-					"path": "Asignaturas/C\u00e1lculo DIVV/Pr\u00e1ctico",
-					"items": [
-						{
-							"name": "Pr\u00e1ctico 01.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIVV/Pr\u00e1ctico/Pr\u00e1ctico 01.pdf",
-							"size": 9861693
+							"children": []
 						},
 						{
-							"name": "Pr\u00e1ctico 02.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIVV/Pr\u00e1ctico/Pr\u00e1ctico 02.pdf",
-							"size": 11040955
-						},
-						{
-							"name": "Pr\u00e1ctico 03.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIVV/Pr\u00e1ctico/Pr\u00e1ctico 03.pdf",
-							"size": 12884888
-						},
-						{
-							"name": "Pr\u00e1ctico 04.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIVV/Pr\u00e1ctico/Pr\u00e1ctico 04.pdf",
-							"size": 7212131
-						}
-					]
-				},
-				{
-					"name": "Te\u00f3rico",
-					"type": "folder",
-					"path": "Asignaturas/C\u00e1lculo DIVV/Te\u00f3rico",
-					"items": [
-						{
-							"name": "Resumen CDIVV segundo parcial.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIVV/Te\u00f3rico/Resumen CDIVV segundo parcial.pdf",
-							"size": 22606353
-						},
-						{
-							"name": "Res\u00famen CDIVV primer parcial.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIVV/Te\u00f3rico/Res\u00famen CDIVV primer parcial.pdf",
-							"size": 277023
-						}
-					]
-				},
-				{
-					"name": "zEVA",
-					"type": "folder",
-					"path": "Asignaturas/C\u00e1lculo DIVV/zEVA",
-					"items": [
-						{
-							"name": "linke.html",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIVV/zEVA/linke.html",
-							"size": 176
-						}
-					]
-				},
-				{
-					"name": "zOpenFing",
-					"type": "folder",
-					"path": "Asignaturas/C\u00e1lculo DIVV/zOpenFing",
-					"items": [
-						{
-							"name": "linko.html",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo DIVV/zOpenFing/linko.html",
-							"size": 156
+							"imageUrl": "eva.png",
+							"title": "Eva",
+							"type": "item",
+							"url": "https://eva.fing.edu.uy/course/view.php?id=1374"
 						}
 					]
 				}
 			]
 		},
 		{
-			"name": "C\u00e1lculo DIVV.png",
-			"type": "file",
-			"path": "Asignaturas/C\u00e1lculo DIVV.png",
-			"size": 579125
+			"imageUrl": "ia-logo.png",
+			"title": "IIA",
+			"type": "folder",
+			"children": []
 		},
 		{
-			"name": "C\u00e1lculo V",
+			"imageUrl": "iem-logo.png",
+			"title": "IEM",
 			"type": "folder",
-			"path": "Asignaturas/C\u00e1lculo V",
-			"items": [
+			"children": []
+		},
+		{
+			"imageUrl": "iffi-logo.png",
+			"title": "IFFI",
+			"type": "folder",
+			"children": [
 				{
-					"name": "Ex\u00e1menes",
+					"imageUrl": "iffi-logo.png",
+					"title": "Física 1",
 					"type": "folder",
-					"path": "Asignaturas/C\u00e1lculo V/Ex\u00e1menes",
-					"items": [
+					"children": [
 						{
-							"name": "Diciembre 2018.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo V/Ex\u00e1menes/Diciembre 2018.pdf",
-							"size": 540793
-						},
-						{
-							"name": "Diciembre 2019.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo V/Ex\u00e1menes/Diciembre 2019.pdf",
-							"size": 100290
-						},
-						{
-							"name": "Febrero 2019.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo V/Ex\u00e1menes/Febrero 2019.pdf",
-							"size": 125549
-						},
-						{
-							"name": "Febrero 2020.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo V/Ex\u00e1menes/Febrero 2020.pdf",
-							"size": 163351
-						},
-						{
-							"name": "Julio 2019.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo V/Ex\u00e1menes/Julio 2019.pdf",
-							"size": 110459
-						},
-						{
-							"name": "Soluci\u00f3n diciembre 2019.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo V/Ex\u00e1menes/Soluci\u00f3n diciembre 2019.pdf",
-							"size": 623653
-						},
-						{
-							"name": "Soluci\u00f3n febrero 2019.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo V/Ex\u00e1menes/Soluci\u00f3n febrero 2019.pdf",
-							"size": 132967
-						},
-						{
-							"name": "Soluci\u00f3n febrero 2020.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo V/Ex\u00e1menes/Soluci\u00f3n febrero 2020.pdf",
-							"size": 202866
-						},
-						{
-							"name": "Soluci\u00f3n julio 2019.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo V/Ex\u00e1menes/Soluci\u00f3n julio 2019.pdf",
-							"size": 128138
-						}
-					]
-				},
-				{
-					"name": "Parciales",
-					"type": "folder",
-					"path": "Asignaturas/C\u00e1lculo V/Parciales",
-					"items": [
-						{
-							"name": "Primeros parciales",
+							"imageUrl": "examnen.png",
+							"title": "Exámenes",
 							"type": "folder",
-							"path": "Asignaturas/C\u00e1lculo V/Parciales/Primeros parciales",
-							"items": [
-								{
-									"name": "2018 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo V/Parciales/Primeros parciales/2018 S.S. Letra.pdf",
-									"size": 171783
-								},
-								{
-									"name": "2018 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo V/Parciales/Primeros parciales/2018 S.S. Solucion.pdf",
-									"size": 121271
-								},
-								{
-									"name": "2019 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo V/Parciales/Primeros parciales/2019 P.S. Letra.pdf",
-									"size": 114880
-								},
-								{
-									"name": "2019 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo V/Parciales/Primeros parciales/2019 P.S. Solucion.pdf",
-									"size": 115924
-								},
-								{
-									"name": "2019 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo V/Parciales/Primeros parciales/2019 S.S. Letra.pdf",
-									"size": 103672
-								},
-								{
-									"name": "2019 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo V/Parciales/Primeros parciales/2019 S.S. Solucion.pdf",
-									"size": 197862
-								},
-								{
-									"name": "2020 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo V/Parciales/Primeros parciales/2020 P.S. Letra.pdf",
-									"size": 137998
-								},
-								{
-									"name": "2020 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo V/Parciales/Primeros parciales/2020 P.S. Solucion.pdf",
-									"size": 145219
-								},
-								{
-									"name": "2020 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo V/Parciales/Primeros parciales/2020 S.S. Letra.pdf",
-									"size": 174960
-								},
-								{
-									"name": "2020 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo V/Parciales/Primeros parciales/2020 S.S. Solucion.pdf",
-									"size": 215823
-								}
-							]
+							"children": []
 						},
 						{
-							"name": "Segundos parciales",
+							"imageUrl": "parciales.png",
+							"title": "Parciales",
 							"type": "folder",
-							"path": "Asignaturas/C\u00e1lculo V/Parciales/Segundos parciales",
-							"items": [
-								{
-									"name": "2018 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo V/Parciales/Segundos parciales/2018 S.S. Letra.pdf",
-									"size": 140761
-								},
-								{
-									"name": "2018 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo V/Parciales/Segundos parciales/2018 S.S. Solucion.pdf",
-									"size": 249311
-								},
-								{
-									"name": "2019 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo V/Parciales/Segundos parciales/2019 P.S. Letra.pdf",
-									"size": 114254
-								},
-								{
-									"name": "2019 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo V/Parciales/Segundos parciales/2019 P.S. Solucion.pdf",
-									"size": 124036
-								},
-								{
-									"name": "2019 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo V/Parciales/Segundos parciales/2019 S.S. Letra.pdf",
-									"size": 145614
-								},
-								{
-									"name": "2019 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo V/Parciales/Segundos parciales/2019 S.S. Solucion.pdf",
-									"size": 130574
-								},
-								{
-									"name": "2020 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo V/Parciales/Segundos parciales/2020 S.S. Letra.pdf",
-									"size": 229220
-								},
-								{
-									"name": "2020 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/C\u00e1lculo V/Parciales/Segundos parciales/2020 S.S. Solucion.pdf",
-									"size": 288561
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "Pr\u00e1ctico",
-					"type": "folder",
-					"path": "Asignaturas/C\u00e1lculo V/Pr\u00e1ctico",
-					"items": [
-						{
-							"name": "Pr\u00e1ctico 1 - Extremos relativos.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo V/Pr\u00e1ctico/Pr\u00e1ctico 1 - Extremos relativos.pdf",
-							"size": 21284531
-						}
-					]
-				},
-				{
-					"name": "Te\u00f3rico",
-					"type": "folder",
-					"path": "Asignaturas/C\u00e1lculo V/Te\u00f3rico",
-					"items": [
-						{
-							"name": "Notas del curso c\u00e1lculo vectorial.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo V/Te\u00f3rico/Notas del curso c\u00e1lculo vectorial.pdf",
-							"size": 3784890
+							"children": []
 						},
 						{
-							"name": "Resumen hasta el primer parcial CV.pdf",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo V/Te\u00f3rico/Resumen hasta el primer parcial CV.pdf",
-							"size": 147378
+							"imageUrl": "practicos.png",
+							"title": "Practicos",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "teoricos.png",
+							"title": "Teóricos",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "eva.png",
+							"title": "Eva",
+							"type": "item",
+							"url": "https://eva.fing.edu.uy/course/view.php?id=87"
+						},
+						{
+							"imageUrl": "openfing.png",
+							"title": "Open Fing",
+							"type": "item",
+							"url": "https://open.fing.edu.uy/courses/f1-2018"
 						}
 					]
 				},
 				{
-					"name": "zEVA",
+					"imageUrl": "iffi-logo.png",
+					"title": "Física 2",
 					"type": "folder",
-					"path": "Asignaturas/C\u00e1lculo V/zEVA",
-					"items": [
+					"children": [
 						{
-							"name": "linke.html",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo V/zEVA/linke.html",
-							"size": 176
+							"imageUrl": "examnen.png",
+							"title": "Exámenes",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "parciales.png",
+							"title": "Parciales",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "practicos.png",
+							"title": "Practicos",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "teoricos.png",
+							"title": "Teóricos",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "eva.png",
+							"title": "Eva",
+							"type": "item",
+							"url": "https://eva.fing.edu.uy/course/view.php?id=32"
+						},
+						{
+							"imageUrl": "openfing.png",
+							"title": "Open Fing",
+							"type": "item",
+							"url": "https://open.fing.edu.uy/courses/f2"
 						}
 					]
 				},
 				{
-					"name": "zOpenFing",
+					"imageUrl": "iffi-logo.png",
+					"title": "Física 3",
 					"type": "folder",
-					"path": "Asignaturas/C\u00e1lculo V/zOpenFing",
-					"items": [
+					"children": [
 						{
-							"name": "linko.html",
-							"type": "file",
-							"path": "Asignaturas/C\u00e1lculo V/zOpenFing/linko.html",
-							"size": 158
+							"imageUrl": "examnen.png",
+							"title": "Exámenes",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "parciales.png",
+							"title": "Parciales",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "practicos.png",
+							"title": "Practicos",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "teoricos.png",
+							"title": "Teóricos",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "eva.png",
+							"title": "Eva",
+							"type": "item",
+							"url": "https://eva.fing.edu.uy/course/view.php?id=36"
+						},
+						{
+							"imageUrl": "openfing.png",
+							"title": "Open Fing",
+							"type": "item",
+							"url": "https://open.fing.edu.uy/courses/f3"
+						}
+					]
+				},
+				{
+					"imageUrl": "iffi-logo.png",
+					"title": "Física Expe. 1",
+					"type": "folder",
+					"children": [
+						{
+							"imageUrl": "practicos.png",
+							"title": "Practicos",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "eva.png",
+							"title": "Eva",
+							"type": "item",
+							"url": "https://eva.fing.edu.uy/course/view.php?id=36"
 						}
 					]
 				}
 			]
 		},
 		{
-			"name": "C\u00e1lculo V..png",
-			"type": "file",
-			"path": "Asignaturas/C\u00e1lculo V..png",
-			"size": 15569
-		},
-		{
-			"name": "C\u00e1lculo V.png",
-			"type": "file",
-			"path": "Asignaturas/C\u00e1lculo V.png",
-			"size": 15569
-		},
-		{
-			"name": "Diapositivas.png",
-			"type": "file",
-			"path": "Asignaturas/Diapositivas.png",
-			"size": 13775
-		},
-		{
-			"name": "EVA.png",
-			"type": "file",
-			"path": "Asignaturas/EVA.png",
-			"size": 21776
-		},
-		{
-			"name": "Ex\u00e1menes.png",
-			"type": "file",
-			"path": "Asignaturas/Ex\u00e1menes.png",
-			"size": 53394
-		},
-		{
-			"name": "F\u00edsica 1",
+			"imageUrl": "iie-logo.png",
+			"title": "IIE",
 			"type": "folder",
-			"path": "Asignaturas/F\u00edsica 1",
-			"items": [
+			"children": []
+		},
+		{
+			"imageUrl": "iimpi-logo.png",
+			"title": "IIMPI",
+			"type": "folder",
+			"children": []
+		},
+		{
+			"imageUrl": "iiq-logo.png",
+			"title": "IIQ",
+			"type": "folder",
+			"children": []
+		},
+		{
+			"imageUrl": "imerl-logo.png",
+			"title": "IMERL",
+			"type": "folder",
+			"children": [
 				{
-					"name": "Ex\u00e1menes",
+					"imageUrl": "imerl-logo.png",
+					"title": "Cálculo DIV",
 					"type": "folder",
-					"path": "Asignaturas/F\u00edsica 1/Ex\u00e1menes",
-					"items": [
+					"children": [
 						{
-							"name": "Diciembre 2017.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Ex\u00e1menes/Diciembre 2017.pdf",
-							"size": 95374
-						},
-						{
-							"name": "Diciembre 2018.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Ex\u00e1menes/Diciembre 2018.pdf",
-							"size": 444707
-						},
-						{
-							"name": "Diciembre 2019.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Ex\u00e1menes/Diciembre 2019.pdf",
-							"size": 490394
-						},
-						{
-							"name": "Diciembre 2020.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Ex\u00e1menes/Diciembre 2020.pdf",
-							"size": 295929
-						},
-						{
-							"name": "Febrero 2017.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Ex\u00e1menes/Febrero 2017.pdf",
-							"size": 220892
-						},
-						{
-							"name": "Febrero 2018.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Ex\u00e1menes/Febrero 2018.pdf",
-							"size": 344405
-						},
-						{
-							"name": "Febrero 2019.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Ex\u00e1menes/Febrero 2019.pdf",
-							"size": 110707
-						},
-						{
-							"name": "Febrero 2020.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Ex\u00e1menes/Febrero 2020.pdf",
-							"size": 430970
-						},
-						{
-							"name": "Febrero 2021.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Ex\u00e1menes/Febrero 2021.pdf",
-							"size": 1237604
-						},
-						{
-							"name": "Julio 2017.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Ex\u00e1menes/Julio 2017.pdf",
-							"size": 305518
-						},
-						{
-							"name": "Julio 2018.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Ex\u00e1menes/Julio 2018.pdf",
-							"size": 133462
-						},
-						{
-							"name": "Julio 2019.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Ex\u00e1menes/Julio 2019.pdf",
-							"size": 168036
-						},
-						{
-							"name": "Julio 2020.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Ex\u00e1menes/Julio 2020.pdf",
-							"size": 1210547
-						},
-						{
-							"name": "Julio 2021.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Ex\u00e1menes/Julio 2021.pdf",
-							"size": 1262742
-						}
-					]
-				},
-				{
-					"name": "Parciales",
-					"type": "folder",
-					"path": "Asignaturas/F\u00edsica 1/Parciales",
-					"items": [
-						{
-							"name": "Primeros parciales",
+							"imageUrl": "examnen.png",
+							"title": "Exámenes",
 							"type": "folder",
-							"path": "Asignaturas/F\u00edsica 1/Parciales/Primeros parciales",
-							"items": [
-								{
-									"name": "2015 P.S..pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Primeros parciales/2015 P.S..pdf",
-									"size": 346460
-								},
-								{
-									"name": "2015 S.S..pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Primeros parciales/2015 S.S..pdf",
-									"size": 350943
-								},
-								{
-									"name": "2016 P.S..pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Primeros parciales/2016 P.S..pdf",
-									"size": 270829
-								},
-								{
-									"name": "2016 S.S..pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Primeros parciales/2016 S.S..pdf",
-									"size": 409962
-								},
-								{
-									"name": "2017 P.S..pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Primeros parciales/2017 P.S..pdf",
-									"size": 610697
-								},
-								{
-									"name": "2017 S.S..pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Primeros parciales/2017 S.S..pdf",
-									"size": 139413
-								},
-								{
-									"name": "2018 P.S..pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Primeros parciales/2018 P.S..pdf",
-									"size": 134105
-								},
-								{
-									"name": "2018 S.S..pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Primeros parciales/2018 S.S..pdf",
-									"size": 524702
-								},
-								{
-									"name": "2019 P.S..pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Primeros parciales/2019 P.S..pdf",
-									"size": 155152
-								},
-								{
-									"name": "2019 S.S..pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Primeros parciales/2019 S.S..pdf",
-									"size": 532550
-								},
-								{
-									"name": "2020 S.S..pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Primeros parciales/2020 S.S..pdf",
-									"size": 549595
-								},
-								{
-									"name": "2021 P.S..pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Primeros parciales/2021 P.S..pdf",
-									"size": 1226502
-								}
-							]
+							"children": []
 						},
 						{
-							"name": "Segundos parciales",
+							"imageUrl": "parciales.png",
+							"title": "Parciales",
 							"type": "folder",
-							"path": "Asignaturas/F\u00edsica 1/Parciales/Segundos parciales",
-							"items": [
-								{
-									"name": "2015 Primer semestre.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Segundos parciales/2015 Primer semestre.pdf",
-									"size": 315776
-								},
-								{
-									"name": "2015 Segundo semestre.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Segundos parciales/2015 Segundo semestre.pdf",
-									"size": 267841
-								},
-								{
-									"name": "2016 Primer semestre.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Segundos parciales/2016 Primer semestre.pdf",
-									"size": 355395
-								},
-								{
-									"name": "2016 Segundo semestre.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Segundos parciales/2016 Segundo semestre.pdf",
-									"size": 409807
-								},
-								{
-									"name": "2017 Primer semestre.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Segundos parciales/2017 Primer semestre.pdf",
-									"size": 253554
-								},
-								{
-									"name": "2017 Segundo semestre.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Segundos parciales/2017 Segundo semestre.pdf",
-									"size": 143974
-								},
-								{
-									"name": "2018 Primer semestre.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Segundos parciales/2018 Primer semestre.pdf",
-									"size": 170306
-								},
-								{
-									"name": "2018 Segundo semestre.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Segundos parciales/2018 Segundo semestre.pdf",
-									"size": 574741
-								},
-								{
-									"name": "2019 Primer semestre.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Segundos parciales/2019 Primer semestre.pdf",
-									"size": 165963
-								},
-								{
-									"name": "2019 Segundo semestre.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Segundos parciales/2019 Segundo semestre.pdf",
-									"size": 593530
-								},
-								{
-									"name": "2020 Segundo semestre.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Segundos parciales/2020 Segundo semestre.pdf",
-									"size": 330557
-								},
-								{
-									"name": "2021 Primer semestre.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 1/Parciales/Segundos parciales/2021 Primer semestre.pdf",
-									"size": 989694
-								}
-							]
+							"children": []
+						},
+						{
+							"imageUrl": "practicos.png",
+							"title": "Practicos",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "teoricos.png",
+							"title": "Teóricos",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "eva.png",
+							"title": "Eva",
+							"type": "item",
+							"url": "https://eva.fing.edu.uy/course/view.php?id=1024"
+						},
+						{
+							"imageUrl": "openfing.png",
+							"title": "Open Fing",
+							"type": "item",
+							"url": "https://open.fing.edu.uy/courses/civ"
 						}
 					]
 				},
 				{
-					"name": "Pr\u00e1ctico",
+					"imageUrl": "imerl-logo.png",
+					"title": "Cálculo DIVV",
 					"type": "folder",
-					"path": "Asignaturas/F\u00edsica 1/Pr\u00e1ctico",
-					"items": [
+					"children": [
 						{
-							"name": "Pr\u00e1ctico 01 - Resoluci\u00f3n.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Pr\u00e1ctico/Pr\u00e1ctico 01 - Resoluci\u00f3n.pdf",
-							"size": 5239062
+							"imageUrl": "examnen.png",
+							"title": "Exámenes",
+							"type": "folder",
+							"children": []
 						},
 						{
-							"name": "Pr\u00e1ctico 02 - Resoluci\u00f3n.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Pr\u00e1ctico/Pr\u00e1ctico 02 - Resoluci\u00f3n.pdf",
-							"size": 10346380
+							"imageUrl": "parciales.png",
+							"title": "Parciales",
+							"type": "folder",
+							"children": []
 						},
 						{
-							"name": "Pr\u00e1ctico 03 - Resoluci\u00f3n.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Pr\u00e1ctico/Pr\u00e1ctico 03 - Resoluci\u00f3n.pdf",
-							"size": 5085545
+							"imageUrl": "practicos.png",
+							"title": "Practicos",
+							"type": "folder",
+							"children": []
 						},
 						{
-							"name": "Pr\u00e1ctico 04 - Resoluci\u00f3n.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Pr\u00e1ctico/Pr\u00e1ctico 04 - Resoluci\u00f3n.pdf",
-							"size": 9884104
+							"imageUrl": "teoricos.png",
+							"title": "Teóricos",
+							"type": "folder",
+							"children": []
 						},
 						{
-							"name": "Pr\u00e1ctico 1.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Pr\u00e1ctico/Pr\u00e1ctico 1.pdf",
-							"size": 49357
+							"imageUrl": "eva.png",
+							"title": "Eva",
+							"type": "item",
+							"url": "https://open.fing.edu.uy/courses/cdivv"
 						},
 						{
-							"name": "Pr\u00e1ctico 2.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Pr\u00e1ctico/Pr\u00e1ctico 2.pdf",
-							"size": 48709
-						},
-						{
-							"name": "Pr\u00e1ctico 3.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Pr\u00e1ctico/Pr\u00e1ctico 3.pdf",
-							"size": 25782
-						},
-						{
-							"name": "Pr\u00e1ctico 4.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Pr\u00e1ctico/Pr\u00e1ctico 4.pdf",
-							"size": 41186
-						},
-						{
-							"name": "Pr\u00e1ctico 5.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Pr\u00e1ctico/Pr\u00e1ctico 5.pdf",
-							"size": 48572
+							"imageUrl": "openfing.png",
+							"title": "Open Fing",
+							"type": "item",
+							"url": "https://eva.fing.edu.uy/course/view.php?id=1594"
 						}
 					]
 				},
 				{
-					"name": "Te\u00f3rico",
+					"imageUrl": "imerl-logo.png",
+					"title": "Cálculo V",
 					"type": "folder",
-					"path": "Asignaturas/F\u00edsica 1/Te\u00f3rico",
-					"items": [
+					"children": [
 						{
-							"name": "LMTDF1.ods",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Te\u00f3rico/LMTDF1.ods",
-							"size": 19298
+							"imageUrl": "examnen.png",
+							"title": "Exámenes",
+							"type": "folder",
+							"children": []
 						},
 						{
-							"name": "RESUMEN  F1 - primer parcial.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Te\u00f3rico/RESUMEN  F1 - primer parcial.pdf",
-							"size": 7258822
+							"imageUrl": "parciales.png",
+							"title": "Parciales",
+							"type": "folder",
+							"children": []
 						},
 						{
-							"name": "Resnik - Libro del curso F1.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Te\u00f3rico/Resnik - Libro del curso F1.pdf",
-							"size": 27819639
+							"imageUrl": "practicos.png",
+							"title": "Practicos",
+							"type": "folder",
+							"children": []
 						},
 						{
-							"name": "Resumen F1 primer parcial-convertido.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Te\u00f3rico/Resumen F1 primer parcial-convertido.pdf",
-							"size": 235924
+							"imageUrl": "teoricos.png",
+							"title": "Teóricos",
+							"type": "folder",
+							"children": []
 						},
 						{
-							"name": "Resumen F1 segundo parcial-convertido.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/Te\u00f3rico/Resumen F1 segundo parcial-convertido.pdf",
-							"size": 115462
+							"imageUrl": "eva.png",
+							"title": "Eva",
+							"type": "item",
+							"url": "https://eva.fing.edu.uy/enrol/index.php?id=1498"
+						},
+						{
+							"imageUrl": "openfing.png",
+							"title": "Open Fing",
+							"type": "item",
+							"url": "https://open.fing.edu.uy/courses/calcvec"
 						}
 					]
 				},
 				{
-					"name": "zEVA",
+					"imageUrl": "imerl-logo.png",
+					"title": "GAL 1",
 					"type": "folder",
-					"path": "Asignaturas/F\u00edsica 1/zEVA",
-					"items": [
+					"children": [
 						{
-							"name": "linke.html",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/zEVA/linke.html",
-							"size": 174
+							"imageUrl": "examnen.png",
+							"title": "Exámenes",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "parciales.png",
+							"title": "Parciales",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "practicos.png",
+							"title": "Practicos",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "teoricos.png",
+							"title": "Teóricos",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "eva.png",
+							"title": "Eva",
+							"type": "item",
+							"url": "https://eva.fing.edu.uy/course/view.php?id=1597"
+						},
+						{
+							"imageUrl": "openfing.png",
+							"title": "Open Fing",
+							"type": "item",
+							"url": "https://open.fing.edu.uy/courses/gal121"
 						}
 					]
 				},
 				{
-					"name": "zOpenFing",
+					"imageUrl": "imerl-logo.png",
+					"title": "GAL 2",
 					"type": "folder",
-					"path": "Asignaturas/F\u00edsica 1/zOpenFing",
-					"items": [
+					"children": [
 						{
-							"name": "linko.html",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 1/zOpenFing/linko.html",
-							"size": 158
+							"imageUrl": "examnen.png",
+							"title": "Exámenes",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "parciales.png",
+							"title": "Parciales",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "practicos.png",
+							"title": "Practicos",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "teoricos.png",
+							"title": "Teóricos",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "eva.png",
+							"title": "Eva",
+							"type": "item",
+							"url": "https://eva.fing.edu.uy/enrol/index.php?id=270"
+						},
+						{
+							"imageUrl": "openfing.png",
+							"title": "Open Fing",
+							"type": "item",
+							"url": "https://open.fing.edu.uy/courses/gal219"
+						}
+					]
+				},
+				{
+					"imageUrl": "imerl-logo.png",
+					"title": "Discreta 1",
+					"type": "folder",
+					"children": [
+						{
+							"imageUrl": "examnen.png",
+							"title": "Exámenes",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "parciales.png",
+							"title": "Parciales",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "practicos.png",
+							"title": "Practicos",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "teoricos.png",
+							"title": "Teóricos",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "eva.png",
+							"title": "Eva",
+							"type": "item",
+							"url": "https://eva.fing.edu.uy/course/view.php?id=323&section=0#tabs-tree-start"
+						},
+						{
+							"imageUrl": "openfing.png",
+							"title": "Open Fing",
+							"type": "item",
+							"url": "https://open.fing.edu.uy/courses/md1-2020"
+						}
+					]
+				},
+				{
+					"imageUrl": "imerl-logo.png",
+					"title": "PYE",
+					"type": "folder",
+					"children": [
+						{
+							"imageUrl": "examnen.png",
+							"title": "Exámenes",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "parciales.png",
+							"title": "Parciales",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "practicos.png",
+							"title": "Practicos",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "teoricos.png",
+							"title": "Teóricos",
+							"type": "folder",
+							"children": []
+						},
+						{
+							"imageUrl": "eva.png",
+							"title": "Eva",
+							"type": "item",
+							"url": "https://eva.fing.edu.uy/course/view.php?id=54"
+						},
+						{
+							"imageUrl": "openfing.png",
+							"title": "Open Fing",
+							"type": "item",
+							"url": "https://open.fing.edu.uy/courses/pye18"
 						}
 					]
 				}
 			]
 		},
 		{
-			"name": "F\u00edsica 1.png",
-			"type": "file",
-			"path": "Asignaturas/F\u00edsica 1.png",
-			"size": 28536
-		},
-		{
-			"name": "F\u00edsica 2",
+			"imageUrl": "imfia-logo.png",
+			"title": "IMFIA",
 			"type": "folder",
-			"path": "Asignaturas/F\u00edsica 2",
-			"items": [
-				{
-					"name": "Ex\u00e1menes",
-					"type": "folder",
-					"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes",
-					"items": [
-						{
-							"name": "Diciembre 2018. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Diciembre 2018. Solucion.pdf",
-							"size": 218836
-						},
-						{
-							"name": "Diciembre 2019. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Diciembre 2019. Letra.pdf",
-							"size": 116478
-						},
-						{
-							"name": "Diciembre 2019. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Diciembre 2019. Solucion.pdf",
-							"size": 51149
-						},
-						{
-							"name": "Diciembre 2021. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Diciembre 2021. Letra.pdf",
-							"size": 209147
-						},
-						{
-							"name": "Diciembre 2021. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Diciembre 2021. Solucion.pdf",
-							"size": 182299
-						},
-						{
-							"name": "Enero 2021. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Enero 2021. Letra.pdf",
-							"size": 180870
-						},
-						{
-							"name": "Feberero 2020. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Feberero 2020. Letra.pdf",
-							"size": 188849
-						},
-						{
-							"name": "Feberero 2020. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Feberero 2020. Solucion.pdf",
-							"size": 90554
-						},
-						{
-							"name": "Feberero 2021. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Feberero 2021. Letra.pdf",
-							"size": 157101
-						},
-						{
-							"name": "Febrero 2017. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Febrero 2017. Letra.pdf",
-							"size": 54163
-						},
-						{
-							"name": "Febrero 2018. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Febrero 2018. Letra.pdf",
-							"size": 99857
-						},
-						{
-							"name": "Febrero 2018. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Febrero 2018. Solucion.pdf",
-							"size": 91093
-						},
-						{
-							"name": "Febrero 2019. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Febrero 2019. Letra.pdf",
-							"size": 212671
-						},
-						{
-							"name": "Febrero 2019. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Febrero 2019. Solucion.pdf",
-							"size": 43206
-						},
-						{
-							"name": "Febrero 2022. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Febrero 2022. Letra.pdf",
-							"size": 326707
-						},
-						{
-							"name": "Febrero 2022. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Febrero 2022. Solucion.pdf",
-							"size": 81383
-						},
-						{
-							"name": "Julio 2016. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Julio 2016. Letra.pdf",
-							"size": 114303
-						},
-						{
-							"name": "Julio 2016. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Julio 2016. Solucion.pdf",
-							"size": 202277
-						},
-						{
-							"name": "Julio 2017. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Julio 2017. Letra.pdf",
-							"size": 126091
-						},
-						{
-							"name": "Julio 2017. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Julio 2017. Solucion.pdf",
-							"size": 280668
-						},
-						{
-							"name": "Julio 2018. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Julio 2018. Letra.pdf",
-							"size": 126994
-						},
-						{
-							"name": "Julio 2018. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Julio 2018. Solucion.pdf",
-							"size": 223580
-						},
-						{
-							"name": "Julio 2019. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Julio 2019. Letra.pdf",
-							"size": 376412
-						},
-						{
-							"name": "Julio 2019. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Julio 2019. Solucion.pdf",
-							"size": 80008
-						},
-						{
-							"name": "Julio 2020. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Ex\u00e1menes/Julio 2020. Solucion.pdf",
-							"size": 1811345
-						}
-					]
-				},
-				{
-					"name": "Parciales",
-					"type": "folder",
-					"path": "Asignaturas/F\u00edsica 2/Parciales",
-					"items": [
-						{
-							"name": "Primeros parciales",
-							"type": "folder",
-							"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales",
-							"items": [
-								{
-									"name": "2016 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales/2016 P.S. Letra.pdf",
-									"size": 103593
-								},
-								{
-									"name": "2016 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales/2016 P.S. Solucion.pdf",
-									"size": 219053
-								},
-								{
-									"name": "2016 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales/2016 S.S. Letra.pdf",
-									"size": 48678
-								},
-								{
-									"name": "2016 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales/2016 S.S. Solucion.pdf",
-									"size": 36209
-								},
-								{
-									"name": "2017 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales/2017 P.S. Letra.pdf",
-									"size": 197607
-								},
-								{
-									"name": "2017 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales/2017 P.S. Solucion.pdf",
-									"size": 75155
-								},
-								{
-									"name": "2017 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales/2017 S.S. Letra.pdf",
-									"size": 268447
-								},
-								{
-									"name": "2017 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales/2017 S.S. Solucion.pdf",
-									"size": 239097
-								},
-								{
-									"name": "2018 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales/2018 P.S. Letra.pdf",
-									"size": 240802
-								},
-								{
-									"name": "2018 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales/2018 P.S. Solucion.pdf",
-									"size": 279178
-								},
-								{
-									"name": "2018 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales/2018 S.S. Letra.pdf",
-									"size": 289337
-								},
-								{
-									"name": "2018 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales/2018 S.S. Solucion.pdf",
-									"size": 177933
-								},
-								{
-									"name": "2019 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales/2019 P.S. Letra.pdf",
-									"size": 620828
-								},
-								{
-									"name": "2019 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales/2019 P.S. Solucion.pdf",
-									"size": 132352
-								},
-								{
-									"name": "2019 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales/2019 S.S. Letra.pdf",
-									"size": 168473
-								},
-								{
-									"name": "2019 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales/2019 S.S. Solucion.pdf",
-									"size": 110798
-								},
-								{
-									"name": "2020 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales/2020 S.S. Letra.pdf",
-									"size": 406544
-								},
-								{
-									"name": "2020 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales/2020 S.S. Solucion.pdf",
-									"size": 1667272
-								},
-								{
-									"name": "2021 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales/2021 P.S. Letra.pdf",
-									"size": 244611
-								},
-								{
-									"name": "2021 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales/2021 P.S. Solucion.pdf",
-									"size": 462014
-								},
-								{
-									"name": "2021 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales/2021 S.S. Letra.pdf",
-									"size": 179100
-								},
-								{
-									"name": "2021 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Primeros parciales/2021 S.S. Solucion.pdf",
-									"size": 186124
-								}
-							]
-						},
-						{
-							"name": "Segundos parciales",
-							"type": "folder",
-							"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales",
-							"items": [
-								{
-									"name": "2016 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales/2016 P.S. Letra.pdf",
-									"size": 23558
-								},
-								{
-									"name": "2016 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales/2016 P.S. Solucion.pdf",
-									"size": 234908
-								},
-								{
-									"name": "2016 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales/2016 S.S. Letra.pdf",
-									"size": 73484
-								},
-								{
-									"name": "2016 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales/2016 S.S. Solucion.pdf",
-									"size": 71605
-								},
-								{
-									"name": "2017 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales/2017 P.S. Letra.pdf",
-									"size": 165428
-								},
-								{
-									"name": "2017 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales/2017 P.S. Solucion.pdf",
-									"size": 138376
-								},
-								{
-									"name": "2017 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales/2017 S.S. Letra.pdf",
-									"size": 45554
-								},
-								{
-									"name": "2017 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales/2017 S.S. Solucion.pdf",
-									"size": 294263
-								},
-								{
-									"name": "2018 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales/2018 P.S. Letra.pdf",
-									"size": 128247
-								},
-								{
-									"name": "2018 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales/2018 P.S. Solucion.pdf",
-									"size": 130379
-								},
-								{
-									"name": "2018 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales/2018 S.S. Letra.pdf",
-									"size": 243155
-								},
-								{
-									"name": "2018 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales/2018 S.S. Solucion.pdf",
-									"size": 130811
-								},
-								{
-									"name": "2019 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales/2019 P.S. Letra.pdf",
-									"size": 123872
-								},
-								{
-									"name": "2019 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales/2019 P.S. Solucion.pdf",
-									"size": 127781
-								},
-								{
-									"name": "2019 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales/2019 S.S. Letra.pdf",
-									"size": 189493
-								},
-								{
-									"name": "2019 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales/2019 S.S. Solucion.pdf",
-									"size": 152818
-								},
-								{
-									"name": "2020 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales/2020 S.S. Letra.pdf",
-									"size": 163498
-								},
-								{
-									"name": "2020 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales/2020 S.S. Solucion.pdf",
-									"size": 513531
-								},
-								{
-									"name": "2021 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales/2021 P.S. Letra.pdf",
-									"size": 142266
-								},
-								{
-									"name": "2021 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales/2021 P.S. Solucion.pdf",
-									"size": 8503603
-								},
-								{
-									"name": "2021 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales/2021 S.S. Letra.pdf",
-									"size": 163094
-								},
-								{
-									"name": "2021 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 2/Parciales/Segundos parciales/2021 S.S. Solucion.pdf",
-									"size": 140890
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "Pr\u00e1ctico",
-					"type": "folder",
-					"path": "Asignaturas/F\u00edsica 2/Pr\u00e1ctico",
-					"items": []
-				},
-				{
-					"name": "Te\u00f3rico",
-					"type": "folder",
-					"path": "Asignaturas/F\u00edsica 2/Te\u00f3rico",
-					"items": [
-						{
-							"name": "Resumen F2 primer parcial-convertido.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Te\u00f3rico/Resumen F2 primer parcial-convertido.pdf",
-							"size": 222718
-						},
-						{
-							"name": "Resumen F2 segundo parcial.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/Te\u00f3rico/Resumen F2 segundo parcial.pdf",
-							"size": 13819951
-						}
-					]
-				},
-				{
-					"name": "zEVA",
-					"type": "folder",
-					"path": "Asignaturas/F\u00edsica 2/zEVA",
-					"items": [
-						{
-							"name": "linke.html",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/zEVA/linke.html",
-							"size": 174
-						}
-					]
-				},
-				{
-					"name": "zOpenFing",
-					"type": "folder",
-					"path": "Asignaturas/F\u00edsica 2/zOpenFing",
-					"items": [
-						{
-							"name": "linko.html",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 2/zOpenFing/linko.html",
-							"size": 153
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "F\u00edsica 2.png",
-			"type": "file",
-			"path": "Asignaturas/F\u00edsica 2.png",
-			"size": 71998
-		},
-		{
-			"name": "F\u00edsica 3",
-			"type": "folder",
-			"path": "Asignaturas/F\u00edsica 3",
-			"items": [
-				{
-					"name": "Ex\u00e1menes",
-					"type": "folder",
-					"path": "Asignaturas/F\u00edsica 3/Ex\u00e1menes",
-					"items": [
-						{
-							"name": "Agosto 2020. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/Ex\u00e1menes/Agosto 2020. Letra.pdf",
-							"size": 125423
-						},
-						{
-							"name": "Agosto 2020. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/Ex\u00e1menes/Agosto 2020. Solucion.pdf",
-							"size": 3796917
-						},
-						{
-							"name": "Agosto 2021. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/Ex\u00e1menes/Agosto 2021. Letra.pdf",
-							"size": 184589
-						},
-						{
-							"name": "Agosto 2021. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/Ex\u00e1menes/Agosto 2021. Solucion.pdf",
-							"size": 138049
-						},
-						{
-							"name": "Diciembre 2018. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/Ex\u00e1menes/Diciembre 2018. Letra.pdf",
-							"size": 139524
-						},
-						{
-							"name": "Diciembre 2018. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/Ex\u00e1menes/Diciembre 2018. Solucion.pdf",
-							"size": 133634
-						},
-						{
-							"name": "Diciembre 2019. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/Ex\u00e1menes/Diciembre 2019. Letra.pdf",
-							"size": 131383
-						},
-						{
-							"name": "Diciembre 2019. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/Ex\u00e1menes/Diciembre 2019. Solucion.pdf",
-							"size": 182879
-						},
-						{
-							"name": "Enero 2021. Letra",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/Ex\u00e1menes/Enero 2021. Letra",
-							"size": 170453
-						},
-						{
-							"name": "Enero 2021. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/Ex\u00e1menes/Enero 2021. Solucion.pdf",
-							"size": 261869
-						},
-						{
-							"name": "Febrero 2019. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/Ex\u00e1menes/Febrero 2019. Letra.pdf",
-							"size": 179336
-						},
-						{
-							"name": "Febrero 2019. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/Ex\u00e1menes/Febrero 2019. Solucion.pdf",
-							"size": 157614
-						},
-						{
-							"name": "Febrero 2020. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/Ex\u00e1menes/Febrero 2020. Letra.pdf",
-							"size": 114313
-						},
-						{
-							"name": "Febrero 2020. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/Ex\u00e1menes/Febrero 2020. Solucion.pdf",
-							"size": 92892
-						},
-						{
-							"name": "Febrero 2021. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/Ex\u00e1menes/Febrero 2021. Letra.pdf",
-							"size": 90100
-						},
-						{
-							"name": "Febrero 2021. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/Ex\u00e1menes/Febrero 2021. Solucion.pdf",
-							"size": 106596
-						},
-						{
-							"name": "Julio 2018. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/Ex\u00e1menes/Julio 2018. Letra.pdf",
-							"size": 116446
-						},
-						{
-							"name": "Julio 2018. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/Ex\u00e1menes/Julio 2018. Solucion.pdf",
-							"size": 132434
-						},
-						{
-							"name": "Julio 2019. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/Ex\u00e1menes/Julio 2019. Letra.pdf",
-							"size": 66258
-						},
-						{
-							"name": "Julio 2019. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/Ex\u00e1menes/Julio 2019. Solucion.pdf",
-							"size": 292337
-						}
-					]
-				},
-				{
-					"name": "Parciales",
-					"type": "folder",
-					"path": "Asignaturas/F\u00edsica 3/Parciales",
-					"items": [
-						{
-							"name": "Primeros parciales",
-							"type": "folder",
-							"path": "Asignaturas/F\u00edsica 3/Parciales/Primeros parciales",
-							"items": [
-								{
-									"name": "2018 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Primeros parciales/2018 P.S. Letra.pdf",
-									"size": 125586
-								},
-								{
-									"name": "2018 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Primeros parciales/2018 P.S. Solucion.pdf",
-									"size": 150703
-								},
-								{
-									"name": "2018 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Primeros parciales/2018 S.S. Letra.pdf",
-									"size": 63014
-								},
-								{
-									"name": "2018 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Primeros parciales/2018 S.S. Solucion.pdf",
-									"size": 665891
-								},
-								{
-									"name": "2019 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Primeros parciales/2019 P.S. Letra.pdf",
-									"size": 159432
-								},
-								{
-									"name": "2019 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Primeros parciales/2019 P.S. Solucion.pdf",
-									"size": 172990
-								},
-								{
-									"name": "2019 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Primeros parciales/2019 S.S. Letra.pdf",
-									"size": 122246
-								},
-								{
-									"name": "2019 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Primeros parciales/2019 S.S. Solucion.pdf",
-									"size": 93644
-								},
-								{
-									"name": "2020 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Primeros parciales/2020 S.S. Letra.pdf",
-									"size": 70568
-								},
-								{
-									"name": "2020 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Primeros parciales/2020 S.S. Solucion.pdf",
-									"size": 87946
-								},
-								{
-									"name": "2021 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Primeros parciales/2021 P.S. Letra.pdf",
-									"size": 1626824
-								},
-								{
-									"name": "2021 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Primeros parciales/2021 P.S. Solucion.pdf",
-									"size": 4876214
-								}
-							]
-						},
-						{
-							"name": "Segundos parciales",
-							"type": "folder",
-							"path": "Asignaturas/F\u00edsica 3/Parciales/Segundos parciales",
-							"items": [
-								{
-									"name": "2018 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Segundos parciales/2018 P.S. Letra.pdf",
-									"size": 94899
-								},
-								{
-									"name": "2018 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Segundos parciales/2018 P.S. Solucion.pdf",
-									"size": 118582
-								},
-								{
-									"name": "2018 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Segundos parciales/2018 S.S. Letra.pdf",
-									"size": 63014
-								},
-								{
-									"name": "2018 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Segundos parciales/2018 S.S. Solucion.pdf",
-									"size": 1149612
-								},
-								{
-									"name": "2019 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Segundos parciales/2019 P.S. Letra.pdf",
-									"size": 68284
-								},
-								{
-									"name": "2019 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Segundos parciales/2019 P.S. Solucion.pdf",
-									"size": 121407
-								},
-								{
-									"name": "2019 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Segundos parciales/2019 S.S. Letra.pdf",
-									"size": 133708
-								},
-								{
-									"name": "2019 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Segundos parciales/2019 S.S. Solucion.pdf",
-									"size": 1149612
-								},
-								{
-									"name": "2020 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Segundos parciales/2020 P.S. Letra.pdf",
-									"size": 109704
-								},
-								{
-									"name": "2020 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Segundos parciales/2020 P.S. Solucion.pdf",
-									"size": 1088742
-								},
-								{
-									"name": "2020 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Segundos parciales/2020 S.S. Letra.pdf",
-									"size": 69487
-								},
-								{
-									"name": "2020 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Segundos parciales/2020 S.S. Solucion.pdf",
-									"size": 190755
-								},
-								{
-									"name": "2021 P.S. Letra",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Segundos parciales/2021 P.S. Letra",
-									"size": 850481
-								},
-								{
-									"name": "2021 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/F\u00edsica 3/Parciales/Segundos parciales/2021 P.S. Solucion.pdf",
-									"size": 207346
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "Pr\u00e1ctico",
-					"type": "folder",
-					"path": "Asignaturas/F\u00edsica 3/Pr\u00e1ctico",
-					"items": []
-				},
-				{
-					"name": "Te\u00f3rico",
-					"type": "folder",
-					"path": "Asignaturas/F\u00edsica 3/Te\u00f3rico",
-					"items": [
-						{
-							"name": "Resnick - Libro del curso",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/Te\u00f3rico/Resnick - Libro del curso",
-							"size": 85521641
-						},
-						{
-							"name": "Resumen hasta el primer parcial F3.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/Te\u00f3rico/Resumen hasta el primer parcial F3.pdf",
-							"size": 313294
-						}
-					]
-				},
-				{
-					"name": "zEVA",
-					"type": "folder",
-					"path": "Asignaturas/F\u00edsica 3/zEVA",
-					"items": [
-						{
-							"name": "linke.html",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/zEVA/linke.html",
-							"size": 174
-						}
-					]
-				},
-				{
-					"name": "zOpenFing",
-					"type": "folder",
-					"path": "Asignaturas/F\u00edsica 3/zOpenFing",
-					"items": [
-						{
-							"name": "linko.html",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica 3/zOpenFing/linko.html",
-							"size": 153
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "F\u00edsica 3.png",
-			"type": "file",
-			"path": "Asignaturas/F\u00edsica 3.png",
-			"size": 25522
-		},
-		{
-			"name": "F\u00edsica Exp. 1",
-			"type": "folder",
-			"path": "Asignaturas/F\u00edsica Exp. 1",
-			"items": [
-				{
-					"name": "Te\u00f3rico",
-					"type": "folder",
-					"path": "Asignaturas/F\u00edsica Exp. 1/Te\u00f3rico",
-					"items": [
-						{
-							"name": "Estad\u00edstica.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica Exp. 1/Te\u00f3rico/Estad\u00edstica.pdf",
-							"size": 227229
-						},
-						{
-							"name": "Guia elaboraci\u00f3n de informes.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica Exp. 1/Te\u00f3rico/Guia elaboraci\u00f3n de informes.pdf",
-							"size": 78357
-						},
-						{
-							"name": "Guia informe p\u00e9ndulo simple..pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica Exp. 1/Te\u00f3rico/Guia informe p\u00e9ndulo simple..pdf",
-							"size": 89512
-						},
-						{
-							"name": "Medidas y cifras significativas.pdf",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica Exp. 1/Te\u00f3rico/Medidas y cifras significativas.pdf",
-							"size": 232988
-						}
-					]
-				},
-				{
-					"name": "zEVA",
-					"type": "folder",
-					"path": "Asignaturas/F\u00edsica Exp. 1/zEVA",
-					"items": [
-						{
-							"name": "linke.html",
-							"type": "file",
-							"path": "Asignaturas/F\u00edsica Exp. 1/zEVA/linke.html",
-							"size": 165
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "F\u00edsica Exp. 1.png",
-			"type": "file",
-			"path": "Asignaturas/F\u00edsica Exp. 1.png",
-			"size": 11038
-		},
-		{
-			"name": "GAL 1",
-			"type": "folder",
-			"path": "Asignaturas/GAL 1",
-			"items": [
-				{
-					"name": "Ex\u00e1menes",
-					"type": "folder",
-					"path": "Asignaturas/GAL 1/Ex\u00e1menes",
-					"items": [
-						{
-							"name": "Diciembre 2017. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 1/Ex\u00e1menes/Diciembre 2017. Letra.pdf",
-							"size": 136298
-						},
-						{
-							"name": "Diciembre 2017. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 1/Ex\u00e1menes/Diciembre 2017. Solucion.pdf",
-							"size": 136335
-						},
-						{
-							"name": "Diciembre 2018. Letra y solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 1/Ex\u00e1menes/Diciembre 2018. Letra y solucion.pdf",
-							"size": 141071
-						},
-						{
-							"name": "Diciembre 2018. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 1/Ex\u00e1menes/Diciembre 2018. Letra.pdf",
-							"size": 140726
-						},
-						{
-							"name": "Diciembre 2019. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 1/Ex\u00e1menes/Diciembre 2019. Letra.pdf",
-							"size": 180114
-						},
-						{
-							"name": "Diciembre 2019. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 1/Ex\u00e1menes/Diciembre 2019. Solucion.pdf",
-							"size": 180431
-						},
-						{
-							"name": "Febrero 2017. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 1/Ex\u00e1menes/Febrero 2017. Letra.pdf",
-							"size": 149566
-						},
-						{
-							"name": "Febrero 2017. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 1/Ex\u00e1menes/Febrero 2017. Solucion.pdf",
-							"size": 151942
-						},
-						{
-							"name": "Febrero 2018. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 1/Ex\u00e1menes/Febrero 2018. Letra.pdf",
-							"size": 133003
-						},
-						{
-							"name": "Febrero 2018. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 1/Ex\u00e1menes/Febrero 2018. Solucion.pdf",
-							"size": 154817
-						},
-						{
-							"name": "Febrero 2019. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 1/Ex\u00e1menes/Febrero 2019. Letra.pdf",
-							"size": 139632
-						},
-						{
-							"name": "Febrero 2019. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 1/Ex\u00e1menes/Febrero 2019. Solucion.pdf",
-							"size": 141012
-						},
-						{
-							"name": "Julio 2017. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 1/Ex\u00e1menes/Julio 2017. Letra.pdf",
-							"size": 127058
-						},
-						{
-							"name": "Julio 2017. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 1/Ex\u00e1menes/Julio 2017. Solucion.pdf",
-							"size": 147437
-						},
-						{
-							"name": "Julio 2019. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 1/Ex\u00e1menes/Julio 2019. Letra.pdf",
-							"size": 190980
-						}
-					]
-				},
-				{
-					"name": "Parciales",
-					"type": "folder",
-					"path": "Asignaturas/GAL 1/Parciales",
-					"items": [
-						{
-							"name": "Primeros parciales",
-							"type": "folder",
-							"path": "Asignaturas/GAL 1/Parciales/Primeros parciales",
-							"items": [
-								{
-									"name": "2013 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Primeros parciales/2013 S.S. Letra.pdf",
-									"size": 43211
-								},
-								{
-									"name": "2013 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Primeros parciales/2013 S.S. Solucion.pdf",
-									"size": 23803
-								},
-								{
-									"name": "2014 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Primeros parciales/2014 P.S. Letra.pdf",
-									"size": 140240
-								},
-								{
-									"name": "2014 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Primeros parciales/2014 P.S. Solucion.pdf",
-									"size": 946459
-								},
-								{
-									"name": "2015 P.S. Letra y solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Primeros parciales/2015 P.S. Letra y solucion.pdf",
-									"size": 135680
-								},
-								{
-									"name": "2016 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Primeros parciales/2016 S.S. Letra.pdf",
-									"size": 55737
-								},
-								{
-									"name": "2016 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Primeros parciales/2016 S.S. Solucion.pdf",
-									"size": 95148
-								},
-								{
-									"name": "2017 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Primeros parciales/2017 P.S. Letra.pdf",
-									"size": 122469
-								},
-								{
-									"name": "2017 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Primeros parciales/2017 P.S. Solucion.pdf",
-									"size": 151243
-								},
-								{
-									"name": "2017 S.S. Letra y solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Primeros parciales/2017 S.S. Letra y solucion.pdf",
-									"size": 124121
-								},
-								{
-									"name": "2018 P.S. Letra y solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Primeros parciales/2018 P.S. Letra y solucion.pdf",
-									"size": 135726
-								},
-								{
-									"name": "2018 S.S. Letra y solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Primeros parciales/2018 S.S. Letra y solucion.pdf",
-									"size": 131669
-								},
-								{
-									"name": "2018 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Primeros parciales/2018 S.S. Letra.pdf",
-									"size": 130822
-								},
-								{
-									"name": "2019 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Primeros parciales/2019 P.S. Letra.pdf",
-									"size": 173863
-								},
-								{
-									"name": "2019 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Primeros parciales/2019 P.S. Solucion.pdf",
-									"size": 226443
-								},
-								{
-									"name": "2019 S.S. Letra y solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Primeros parciales/2019 S.S. Letra y solucion.pdf",
-									"size": 167733
-								},
-								{
-									"name": "2019 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Primeros parciales/2019 S.S. Letra.pdf",
-									"size": 157679
-								}
-							]
-						},
-						{
-							"name": "Segundos parciales",
-							"type": "folder",
-							"path": "Asignaturas/GAL 1/Parciales/Segundos parciales",
-							"items": [
-								{
-									"name": "2013 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Segundos parciales/2013 S.S. Letra.pdf",
-									"size": 50592
-								},
-								{
-									"name": "2013 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Segundos parciales/2013 S.S. Solucion.pdf",
-									"size": 25724
-								},
-								{
-									"name": "2014 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Segundos parciales/2014 P.S. Letra.pdf",
-									"size": 140052
-								},
-								{
-									"name": "2014 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Segundos parciales/2014 P.S. Solucion.pdf",
-									"size": 283852
-								},
-								{
-									"name": "2014 S.S. Letra y solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Segundos parciales/2014 S.S. Letra y solucion.pdf",
-									"size": 120293
-								},
-								{
-									"name": "2015 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Segundos parciales/2015 P.S. Letra.pdf",
-									"size": 140478
-								},
-								{
-									"name": "2015 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Segundos parciales/2015 P.S. Solucion.pdf",
-									"size": 150581
-								},
-								{
-									"name": "2016 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Segundos parciales/2016 P.S. Letra.pdf",
-									"size": 132534
-								},
-								{
-									"name": "2016 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Segundos parciales/2016 P.S. Solucion.pdf",
-									"size": 86613
-								},
-								{
-									"name": "2016 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Segundos parciales/2016 S.S. Letra.pdf",
-									"size": 37114
-								},
-								{
-									"name": "2016 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Segundos parciales/2016 S.S. Solucion.pdf",
-									"size": 111756
-								},
-								{
-									"name": "2017 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Segundos parciales/2017 P.S. Letra.pdf",
-									"size": 123712
-								},
-								{
-									"name": "2017 P.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Segundos parciales/2017 P.S. Solucion.pdf",
-									"size": 135937
-								},
-								{
-									"name": "2017 S.S. Letra y solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Segundos parciales/2017 S.S. Letra y solucion.pdf",
-									"size": 131174
-								},
-								{
-									"name": "2017 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Segundos parciales/2017 S.S. Letra.pdf",
-									"size": 130891
-								},
-								{
-									"name": "2018 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Segundos parciales/2018 S.S. Letra.pdf",
-									"size": 140530
-								},
-								{
-									"name": "2018 S.S. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Segundos parciales/2018 S.S. Solucion.pdf",
-									"size": 140801
-								},
-								{
-									"name": "2019 P.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Segundos parciales/2019 P.S. Letra.pdf",
-									"size": 194874
-								},
-								{
-									"name": "2019 S.S. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 1/Parciales/Segundos parciales/2019 S.S. Letra.pdf",
-									"size": 167319
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "Pr\u00e1ctico",
-					"type": "folder",
-					"path": "Asignaturas/GAL 1/Pr\u00e1ctico",
-					"items": []
-				},
-				{
-					"name": "Te\u00f3rico",
-					"type": "folder",
-					"path": "Asignaturas/GAL 1/Te\u00f3rico",
-					"items": [
-						{
-							"name": "Libro Azul GAL.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 1/Te\u00f3rico/Libro Azul GAL.pdf",
-							"size": 1274454
-						},
-						{
-							"name": "Resumen GAL 1 primer parcial-convertido.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 1/Te\u00f3rico/Resumen GAL 1 primer parcial-convertido.pdf",
-							"size": 222095
-						},
-						{
-							"name": "Resumen GAL 1 segundo parcial-convertido.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 1/Te\u00f3rico/Resumen GAL 1 segundo parcial-convertido.pdf",
-							"size": 167701
-						}
-					]
-				},
-				{
-					"name": "zEVA",
-					"type": "folder",
-					"path": "Asignaturas/GAL 1/zEVA",
-					"items": [
-						{
-							"name": "linke.html",
-							"type": "file",
-							"path": "Asignaturas/GAL 1/zEVA/linke.html",
-							"size": 176
-						}
-					]
-				},
-				{
-					"name": "zOpenFing",
-					"type": "folder",
-					"path": "Asignaturas/GAL 1/zOpenFing",
-					"items": [
-						{
-							"name": "linko.html",
-							"type": "file",
-							"path": "Asignaturas/GAL 1/zOpenFing/linko.html",
-							"size": 157
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "GAL 1.png",
-			"type": "file",
-			"path": "Asignaturas/GAL 1.png",
-			"size": 301107
-		},
-		{
-			"name": "GAL 2",
-			"type": "folder",
-			"path": "Asignaturas/GAL 2",
-			"items": [
-				{
-					"name": "Ex\u00e1menes",
-					"type": "folder",
-					"path": "Asignaturas/GAL 2/Ex\u00e1menes",
-					"items": [
-						{
-							"name": "Diciembre 2017 Solucion M.O..zip",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Ex\u00e1menes/Diciembre 2017 Solucion M.O..zip",
-							"size": 306591
-						},
-						{
-							"name": "Diciembre 2018 Letra y solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Ex\u00e1menes/Diciembre 2018 Letra y solucion.pdf",
-							"size": 137192
-						},
-						{
-							"name": "Diciembre 2019 Letra y solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Ex\u00e1menes/Diciembre 2019 Letra y solucion.pdf",
-							"size": 123931
-						},
-						{
-							"name": "Febrero 2018 Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Ex\u00e1menes/Febrero 2018 Letra.pdf",
-							"size": 45783
-						},
-						{
-							"name": "Febrero 2018 Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Ex\u00e1menes/Febrero 2018 Solucion.pdf",
-							"size": 21158
-						},
-						{
-							"name": "Febrero 2019 Letra y solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Ex\u00e1menes/Febrero 2019 Letra y solucion.pdf",
-							"size": 146879
-						},
-						{
-							"name": "Febrero 2019 Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Ex\u00e1menes/Febrero 2019 Letra.pdf",
-							"size": 64847
-						},
-						{
-							"name": "Febrero 2020 Letra y solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Ex\u00e1menes/Febrero 2020 Letra y solucion.pdf",
-							"size": 189215
-						},
-						{
-							"name": "Febrero 2020 Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Ex\u00e1menes/Febrero 2020 Letra.pdf",
-							"size": 117379
-						},
-						{
-							"name": "Julio 2017 Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Ex\u00e1menes/Julio 2017 Letra.pdf",
-							"size": 36530
-						},
-						{
-							"name": "Julio 2018 Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Ex\u00e1menes/Julio 2018 Solucion.pdf",
-							"size": 85741
-						},
-						{
-							"name": "Julio 2019 Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Ex\u00e1menes/Julio 2019 Letra.pdf",
-							"size": 154558
-						},
-						{
-							"name": "Julio 2019 Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Ex\u00e1menes/Julio 2019 Solucion.pdf",
-							"size": 201188
-						}
-					]
-				},
-				{
-					"name": "Parciales",
-					"type": "folder",
-					"path": "Asignaturas/GAL 2/Parciales",
-					"items": [
-						{
-							"name": "Primeros parciales",
-							"type": "folder",
-							"path": "Asignaturas/GAL 2/Parciales/Primeros parciales",
-							"items": [
-								{
-									"name": "Abril 2016. Letra y solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 2/Parciales/Primeros parciales/Abril 2016. Letra y solucion.pdf",
-									"size": 139690
-								},
-								{
-									"name": "Abril 2017. Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 2/Parciales/Primeros parciales/Abril 2017. Letra.pdf",
-									"size": 122279
-								},
-								{
-									"name": "Abril 2017. Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 2/Parciales/Primeros parciales/Abril 2017. Solucion.pdf",
-									"size": 82925
-								},
-								{
-									"name": "Abril 2018. Letra y solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 2/Parciales/Primeros parciales/Abril 2018. Letra y solucion.pdf",
-									"size": 132311
-								},
-								{
-									"name": "Abril 2019. Letra y solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 2/Parciales/Primeros parciales/Abril 2019. Letra y solucion.pdf",
-									"size": 566325
-								},
-								{
-									"name": "Septiembre 2015. Letra y solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 2/Parciales/Primeros parciales/Septiembre 2015. Letra y solucion.pdf",
-									"size": 151042
-								},
-								{
-									"name": "Septiembre 2018. Letra y solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 2/Parciales/Primeros parciales/Septiembre 2018. Letra y solucion.pdf",
-									"size": 157467
-								},
-								{
-									"name": "Septiembre 2019. Letra y solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 2/Parciales/Primeros parciales/Septiembre 2019. Letra y solucion.pdf",
-									"size": 141457
-								}
-							]
-						},
-						{
-							"name": "Segundos parciales",
-							"type": "folder",
-							"path": "Asignaturas/GAL 2/Parciales/Segundos parciales",
-							"items": [
-								{
-									"name": "2017 Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 2/Parciales/Segundos parciales/2017 Letra.pdf",
-									"size": 124400
-								},
-								{
-									"name": "2017 Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 2/Parciales/Segundos parciales/2017 Solucion.pdf",
-									"size": 82313
-								},
-								{
-									"name": "Julio 2018 Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 2/Parciales/Segundos parciales/Julio 2018 Letra.pdf",
-									"size": 66324
-								},
-								{
-									"name": "Julio 2018 Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 2/Parciales/Segundos parciales/Julio 2018 Solucion.pdf",
-									"size": 139477
-								},
-								{
-									"name": "Julio 2019 Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 2/Parciales/Segundos parciales/Julio 2019 Letra.pdf",
-									"size": 144270
-								},
-								{
-									"name": "Julio 2019 Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 2/Parciales/Segundos parciales/Julio 2019 Solucion.pdf",
-									"size": 179811
-								},
-								{
-									"name": "Noviembre 2018 Letra y solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 2/Parciales/Segundos parciales/Noviembre 2018 Letra y solucion.pdf",
-									"size": 145484
-								},
-								{
-									"name": "Noviembre 2018 Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 2/Parciales/Segundos parciales/Noviembre 2018 Letra.pdf",
-									"size": 140726
-								},
-								{
-									"name": "Noviembre 2018 Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 2/Parciales/Segundos parciales/Noviembre 2018 Solucion.pdf",
-									"size": 145484
-								},
-								{
-									"name": "Noviembre 2019 Letra y solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/GAL 2/Parciales/Segundos parciales/Noviembre 2019 Letra y solucion.pdf",
-									"size": 144720
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "Pr\u00e1ctico",
-					"type": "folder",
-					"path": "Asignaturas/GAL 2/Pr\u00e1ctico",
-					"items": [
-						{
-							"name": "Pr\u00e1ctico 01.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Pr\u00e1ctico/Pr\u00e1ctico 01.pdf",
-							"size": 26464372
-						},
-						{
-							"name": "Pr\u00e1ctico 02.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Pr\u00e1ctico/Pr\u00e1ctico 02.pdf",
-							"size": 37478439
-						},
-						{
-							"name": "Pr\u00e1ctico 03.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Pr\u00e1ctico/Pr\u00e1ctico 03.pdf",
-							"size": 8013012
-						},
-						{
-							"name": "Pr\u00e1ctico 04.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Pr\u00e1ctico/Pr\u00e1ctico 04.pdf",
-							"size": 25625987
-						},
-						{
-							"name": "Pr\u00e1ctico 05.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Pr\u00e1ctico/Pr\u00e1ctico 05.pdf",
-							"size": 16612243
-						},
-						{
-							"name": "Pr\u00e1ctico 06.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Pr\u00e1ctico/Pr\u00e1ctico 06.pdf",
-							"size": 12968194
-						},
-						{
-							"name": "Pr\u00e1ctico 07.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Pr\u00e1ctico/Pr\u00e1ctico 07.pdf",
-							"size": 3589169
-						},
-						{
-							"name": "Pr\u00e1ctico 08.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Pr\u00e1ctico/Pr\u00e1ctico 08.pdf",
-							"size": 10587991
-						},
-						{
-							"name": "Pr\u00e1ctico 09.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Pr\u00e1ctico/Pr\u00e1ctico 09.pdf",
-							"size": 15008423
-						},
-						{
-							"name": "Pr\u00e1ctico 10.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Pr\u00e1ctico/Pr\u00e1ctico 10.pdf",
-							"size": 11037207
-						}
-					]
-				},
-				{
-					"name": "Te\u00f3rico",
-					"type": "folder",
-					"path": "Asignaturas/GAL 2/Te\u00f3rico",
-					"items": [
-						{
-							"name": "Resumen GAL 2 primer parcial-convertido.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Te\u00f3rico/Resumen GAL 2 primer parcial-convertido.pdf",
-							"size": 249567
-						},
-						{
-							"name": "Resumen GAL 2 segundo parcial-convertido.pdf",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/Te\u00f3rico/Resumen GAL 2 segundo parcial-convertido.pdf",
-							"size": 118539
-						}
-					]
-				},
-				{
-					"name": "zEVA",
-					"type": "folder",
-					"path": "Asignaturas/GAL 2/zEVA",
-					"items": [
-						{
-							"name": "linke.html",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/zEVA/linke.html",
-							"size": 175
-						}
-					]
-				},
-				{
-					"name": "zOpenFing",
-					"type": "folder",
-					"path": "Asignaturas/GAL 2/zOpenFing",
-					"items": [
-						{
-							"name": "linko.html",
-							"type": "file",
-							"path": "Asignaturas/GAL 2/zOpenFing/linko.html",
-							"size": 157
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "GAL 2.png",
-			"type": "file",
-			"path": "Asignaturas/GAL 2.png",
-			"size": 36475
-		},
-		{
-			"name": "Intr. al derecho",
-			"type": "folder",
-			"path": "Asignaturas/Intr. al derecho",
-			"items": [
-				{
-					"name": "Diapositivas",
-					"type": "folder",
-					"path": "Asignaturas/Intr. al derecho/Diapositivas",
-					"items": []
-				},
-				{
-					"name": "Te\u00f3rico",
-					"type": "folder",
-					"path": "Asignaturas/Intr. al derecho/Te\u00f3rico",
-					"items": []
-				},
-				{
-					"name": "zEVA",
-					"type": "folder",
-					"path": "Asignaturas/Intr. al derecho/zEVA",
-					"items": [
-						{
-							"name": "linke.html",
-							"type": "file",
-							"path": "Asignaturas/Intr. al derecho/zEVA/linke.html",
-							"size": 165
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "Intr. al derecho.png",
-			"type": "file",
-			"path": "Asignaturas/Intr. al derecho.png",
-			"size": 18704
-		},
-		{
-			"name": "MD1",
-			"type": "folder",
-			"path": "Asignaturas/MD1",
-			"items": [
-				{
-					"name": "Ex\u00e1menes",
-					"type": "folder",
-					"path": "Asignaturas/MD1/Ex\u00e1menes",
-					"items": [
-						{
-							"name": "Examen 2014 Diciembre Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/MD1/Ex\u00e1menes/Examen 2014 Diciembre Solucion.pdf",
-							"size": 142995
-						},
-						{
-							"name": "Examen 2015 Diciembre.pdf",
-							"type": "file",
-							"path": "Asignaturas/MD1/Ex\u00e1menes/Examen 2015 Diciembre.pdf",
-							"size": 122931
-						},
-						{
-							"name": "Examen 2015 Febrero Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/MD1/Ex\u00e1menes/Examen 2015 Febrero Solucion.pdf",
-							"size": 180464
-						},
-						{
-							"name": "Examen 2015 Julio Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/MD1/Ex\u00e1menes/Examen 2015 Julio Solucion.pdf",
-							"size": 127286
-						},
-						{
-							"name": "Examen 2015 Julio.pdf",
-							"type": "file",
-							"path": "Asignaturas/MD1/Ex\u00e1menes/Examen 2015 Julio.pdf",
-							"size": 127717
-						},
-						{
-							"name": "Examen 2015 diciembre Soluci\u00f3n.pdf",
-							"type": "file",
-							"path": "Asignaturas/MD1/Ex\u00e1menes/Examen 2015 diciembre Soluci\u00f3n.pdf",
-							"size": 61707
-						},
-						{
-							"name": "Examen 2016 Diciembre.pdf",
-							"type": "file",
-							"path": "Asignaturas/MD1/Ex\u00e1menes/Examen 2016 Diciembre.pdf",
-							"size": 55344
-						},
-						{
-							"name": "Examen 2016 Febrero Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/MD1/Ex\u00e1menes/Examen 2016 Febrero Solucion.pdf",
-							"size": 87339
-						},
-						{
-							"name": "Examen 2016 Febrero.pdf",
-							"type": "file",
-							"path": "Asignaturas/MD1/Ex\u00e1menes/Examen 2016 Febrero.pdf",
-							"size": 240007
-						},
-						{
-							"name": "Examen 2016 Julio Soluci\u00f3n.pdf",
-							"type": "file",
-							"path": "Asignaturas/MD1/Ex\u00e1menes/Examen 2016 Julio Soluci\u00f3n.pdf",
-							"size": 68974
-						},
-						{
-							"name": "Examen 2016 Julio.pdf",
-							"type": "file",
-							"path": "Asignaturas/MD1/Ex\u00e1menes/Examen 2016 Julio.pdf",
-							"size": 50088
-						},
-						{
-							"name": "Examen 2017 Febrero Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/MD1/Ex\u00e1menes/Examen 2017 Febrero Solucion.pdf",
-							"size": 70268
-						},
-						{
-							"name": "Examen 2017 diciembre  Soluci\u00f3n.pdf",
-							"type": "file",
-							"path": "Asignaturas/MD1/Ex\u00e1menes/Examen 2017 diciembre  Soluci\u00f3n.pdf",
-							"size": 210232
-						},
-						{
-							"name": "Examen 2017 diciembre Soluci\u00f3n.pdf",
-							"type": "file",
-							"path": "Asignaturas/MD1/Ex\u00e1menes/Examen 2017 diciembre Soluci\u00f3n.pdf",
-							"size": 210232
-						},
-						{
-							"name": "Examen 2018 febrero Soluci\u00f3n.pdf",
-							"type": "file",
-							"path": "Asignaturas/MD1/Ex\u00e1menes/Examen 2018 febrero Soluci\u00f3n.pdf",
-							"size": 302164
-						},
-						{
-							"name": "Examen 2019 Julio Soluci\u00f3n.pdf",
-							"type": "file",
-							"path": "Asignaturas/MD1/Ex\u00e1menes/Examen 2019 Julio Soluci\u00f3n.pdf",
-							"size": 48178
-						},
-						{
-							"name": "Examen 2019 Julio.pdf",
-							"type": "file",
-							"path": "Asignaturas/MD1/Ex\u00e1menes/Examen 2019 Julio.pdf",
-							"size": 31646
-						},
-						{
-							"name": "Examen 2020 Agosto Soluci\u00f3n.pdf",
-							"type": "file",
-							"path": "Asignaturas/MD1/Ex\u00e1menes/Examen 2020 Agosto Soluci\u00f3n.pdf",
-							"size": 149568
-						},
-						{
-							"name": "Examen 2020 Agosto.pdf",
-							"type": "file",
-							"path": "Asignaturas/MD1/Ex\u00e1menes/Examen 2020 Agosto.pdf",
-							"size": 131328
-						},
-						{
-							"name": "Examen virtual 2021 Febrero soluci\u00f3n.pdf",
-							"type": "file",
-							"path": "Asignaturas/MD1/Ex\u00e1menes/Examen virtual 2021 Febrero soluci\u00f3n.pdf",
-							"size": 2162857
-						},
-						{
-							"name": "Examen virtual 2021 Febrero.pdf",
-							"type": "file",
-							"path": "Asignaturas/MD1/Ex\u00e1menes/Examen virtual 2021 Febrero.pdf",
-							"size": 366541
-						}
-					]
-				},
-				{
-					"name": "Parciales",
-					"type": "folder",
-					"path": "Asignaturas/MD1/Parciales",
-					"items": [
-						{
-							"name": "Primeros parciales",
-							"type": "folder",
-							"path": "Asignaturas/MD1/Parciales/Primeros parciales",
-							"items": [
-								{
-									"name": "Primer Parcial 2014 Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Primeros parciales/Primer Parcial 2014 Solucion.pdf",
-									"size": 34287
-								},
-								{
-									"name": "Primer Parcial 2015 Mayo Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Primeros parciales/Primer Parcial 2015 Mayo Solucion.pdf",
-									"size": 147174
-								},
-								{
-									"name": "Primer Parcial 2015 Mayo.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Primeros parciales/Primer Parcial 2015 Mayo.pdf",
-									"size": 135104
-								},
-								{
-									"name": "Primer Parcial 2015 Setiembre.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Primeros parciales/Primer Parcial 2015 Setiembre.pdf",
-									"size": 178532
-								},
-								{
-									"name": "Primer Parcial 2015 Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Primeros parciales/Primer Parcial 2015 Solucion.pdf",
-									"size": 124689
-								},
-								{
-									"name": "Primer Parcial 2016 Mayo Soluci\u00f3n.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Primeros parciales/Primer Parcial 2016 Mayo Soluci\u00f3n.pdf",
-									"size": 46989
-								},
-								{
-									"name": "Primer Parcial 2016 Mayo.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Primeros parciales/Primer Parcial 2016 Mayo.pdf",
-									"size": 39684
-								},
-								{
-									"name": "Primer Parcial 2016.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Primeros parciales/Primer Parcial 2016.pdf",
-									"size": 36094
-								},
-								{
-									"name": "Primer Parcial 2017 2do sem Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Primeros parciales/Primer Parcial 2017 2do sem Solucion.pdf",
-									"size": 146286
-								},
-								{
-									"name": "Primer Parcial 2017 Mayo Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Primeros parciales/Primer Parcial 2017 Mayo Solucion.pdf",
-									"size": 134263
-								},
-								{
-									"name": "Primer Parcial 2017 mayo.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Primeros parciales/Primer Parcial 2017 mayo.pdf",
-									"size": 130959
-								},
-								{
-									"name": "Primer Parcial 2018 1er sem letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Primeros parciales/Primer Parcial 2018 1er sem letra.pdf",
-									"size": 29224
-								},
-								{
-									"name": "Primer Parcial 2018 1er sem resolucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Primeros parciales/Primer Parcial 2018 1er sem resolucion.pdf",
-									"size": 45549
-								},
-								{
-									"name": "Primer Parcial 2018 2do sem letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Primeros parciales/Primer Parcial 2018 2do sem letra.pdf",
-									"size": 28433
-								},
-								{
-									"name": "Primer Parcial 2018 2do sem solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Primeros parciales/Primer Parcial 2018 2do sem solucion.pdf",
-									"size": 37680
-								},
-								{
-									"name": "Primer Parcial 2019 1er sem letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Primeros parciales/Primer Parcial 2019 1er sem letra.pdf",
-									"size": 23713
-								},
-								{
-									"name": "Primer Parcial 2019 1er sem sol.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Primeros parciales/Primer Parcial 2019 1er sem sol.pdf",
-									"size": 37977
-								},
-								{
-									"name": "Primer parcial 2020 Octubre Soluci\u00f3n.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Primeros parciales/Primer parcial 2020 Octubre Soluci\u00f3n.pdf",
-									"size": 119992
-								},
-								{
-									"name": "Primer parcial 2020 Octubre.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Primeros parciales/Primer parcial 2020 Octubre.pdf",
-									"size": 108843
-								}
-							]
-						},
-						{
-							"name": "Segundos parciales",
-							"type": "folder",
-							"path": "Asignaturas/MD1/Parciales/Segundos parciales",
-							"items": [
-								{
-									"name": "Segundo Parcial 2001.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Segundos parciales/Segundo Parcial 2001.pdf",
-									"size": 133691
-								},
-								{
-									"name": "Segundo Parcial 2002 Letra y Sol.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Segundos parciales/Segundo Parcial 2002 Letra y Sol.pdf",
-									"size": 154153
-								},
-								{
-									"name": "Segundo Parcial 2003 Letra y Sol.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Segundos parciales/Segundo Parcial 2003 Letra y Sol.pdf",
-									"size": 125648
-								},
-								{
-									"name": "Segundo Parcial 2004 Letra y Sol.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Segundos parciales/Segundo Parcial 2004 Letra y Sol.pdf",
-									"size": 55391
-								},
-								{
-									"name": "Segundo Parcial 2005 Letra y Sol.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Segundos parciales/Segundo Parcial 2005 Letra y Sol.pdf",
-									"size": 1388823
-								},
-								{
-									"name": "Segundo Parcial 2013.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Segundos parciales/Segundo Parcial 2013.pdf",
-									"size": 152039
-								},
-								{
-									"name": "Segundo Parcial 2014 Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Segundos parciales/Segundo Parcial 2014 Solucion.pdf",
-									"size": 132009
-								},
-								{
-									"name": "Segundo Parcial 2015 Julio Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Segundos parciales/Segundo Parcial 2015 Julio Solucion.pdf",
-									"size": 131185
-								},
-								{
-									"name": "Segundo Parcial 2015 Julio.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Segundos parciales/Segundo Parcial 2015 Julio.pdf",
-									"size": 113208
-								},
-								{
-									"name": "Segundo Parcial 2016 Junio Soluci\u00f3n.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Segundos parciales/Segundo Parcial 2016 Junio Soluci\u00f3n.pdf",
-									"size": 77431
-								},
-								{
-									"name": "Segundo Parcial 2016 Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Segundos parciales/Segundo Parcial 2016 Solucion.pdf",
-									"size": 166170
-								},
-								{
-									"name": "Segundo Parcial 2016.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Segundos parciales/Segundo Parcial 2016.pdf",
-									"size": 114946
-								},
-								{
-									"name": "Segundo Parcial 2017 Junio Solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Segundos parciales/Segundo Parcial 2017 Junio Solucion.pdf",
-									"size": 134517
-								},
-								{
-									"name": "Segundo Parcial 2017 Junio.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Segundos parciales/Segundo Parcial 2017 Junio.pdf",
-									"size": 101291
-								},
-								{
-									"name": "Segundo Parcial 2017 noviembre solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Segundos parciales/Segundo Parcial 2017 noviembre solucion.pdf",
-									"size": 182044
-								},
-								{
-									"name": "Segundo Parcial 2018 1er sem Letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Segundos parciales/Segundo Parcial 2018 1er sem Letra.pdf",
-									"size": 29082
-								},
-								{
-									"name": "Segundo Parcial 2018 1er sem Resolucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Segundos parciales/Segundo Parcial 2018 1er sem Resolucion.pdf",
-									"size": 43495
-								},
-								{
-									"name": "Segundo Parcial 2018 2do sem letra.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Segundos parciales/Segundo Parcial 2018 2do sem letra.pdf",
-									"size": 30528
-								},
-								{
-									"name": "Segundo Parcial 2018 2do sem solucion.pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Segundos parciales/Segundo Parcial 2018 2do sem solucion.pdf",
-									"size": 46685
-								},
-								{
-									"name": "Segundo parcial 2020 Julio (parcial global).pdf",
-									"type": "file",
-									"path": "Asignaturas/MD1/Parciales/Segundos parciales/Segundo parcial 2020 Julio (parcial global).pdf",
-									"size": 190499
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "Pr\u00e1ctico",
-					"type": "folder",
-					"path": "Asignaturas/MD1/Pr\u00e1ctico",
-					"items": []
-				},
-				{
-					"name": "Te\u00f3rico",
-					"type": "folder",
-					"path": "Asignaturas/MD1/Te\u00f3rico",
-					"items": []
-				},
-				{
-					"name": "zEVA",
-					"type": "folder",
-					"path": "Asignaturas/MD1/zEVA",
-					"items": [
-						{
-							"name": "linke.html",
-							"type": "file",
-							"path": "Asignaturas/MD1/zEVA/linke.html",
-							"size": 201
-						}
-					]
-				},
-				{
-					"name": "zOpenFing",
-					"type": "folder",
-					"path": "Asignaturas/MD1/zOpenFing",
-					"items": [
-						{
-							"name": "linko.html",
-							"type": "file",
-							"path": "Asignaturas/MD1/zOpenFing/linko.html",
-							"size": 159
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "MD1.png",
-			"type": "file",
-			"path": "Asignaturas/MD1.png",
-			"size": 2647
-		},
-		{
-			"name": "Mec. New.",
-			"type": "folder",
-			"path": "Asignaturas/Mec. New.",
-			"items": [
-				{
-					"name": "Ex\u00e1menes",
-					"type": "folder",
-					"path": "Asignaturas/Mec. New./Ex\u00e1menes",
-					"items": []
-				},
-				{
-					"name": "Parciales",
-					"type": "folder",
-					"path": "Asignaturas/Mec. New./Parciales",
-					"items": [
-						{
-							"name": "Primeros parciales",
-							"type": "folder",
-							"path": "Asignaturas/Mec. New./Parciales/Primeros parciales",
-							"items": []
-						},
-						{
-							"name": "Segundos parciales",
-							"type": "folder",
-							"path": "Asignaturas/Mec. New./Parciales/Segundos parciales",
-							"items": []
-						}
-					]
-				},
-				{
-					"name": "Pr\u00e1ctico",
-					"type": "folder",
-					"path": "Asignaturas/Mec. New./Pr\u00e1ctico",
-					"items": []
-				},
-				{
-					"name": "Te\u00f3rico",
-					"type": "folder",
-					"path": "Asignaturas/Mec. New./Te\u00f3rico",
-					"items": [
-						{
-							"name": "Apuntes del curso.pdf",
-							"type": "file",
-							"path": "Asignaturas/Mec. New./Te\u00f3rico/Apuntes del curso.pdf",
-							"size": 1703875
-						},
-						{
-							"name": "Apuntes ecuaciones diferenciales.pdf",
-							"type": "file",
-							"path": "Asignaturas/Mec. New./Te\u00f3rico/Apuntes ecuaciones diferenciales.pdf",
-							"size": 146757
-						},
-						{
-							"name": "Hoja de f\u00f3rmulas primera parte.pdf",
-							"type": "file",
-							"path": "Asignaturas/Mec. New./Te\u00f3rico/Hoja de f\u00f3rmulas primera parte.pdf",
-							"size": 114508
-						}
-					]
-				},
-				{
-					"name": "zEVA",
-					"type": "folder",
-					"path": "Asignaturas/Mec. New./zEVA",
-					"items": [
-						{
-							"name": "linke.html",
-							"type": "file",
-							"path": "Asignaturas/Mec. New./zEVA/linke.html",
-							"size": 174
-						}
-					]
-				},
-				{
-					"name": "zOpenFing",
-					"type": "folder",
-					"path": "Asignaturas/Mec. New./zOpenFing",
-					"items": [
-						{
-							"name": "linko.html",
-							"type": "file",
-							"path": "Asignaturas/Mec. New./zOpenFing/linko.html",
-							"size": 155
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "Mec. New..png",
-			"type": "file",
-			"path": "Asignaturas/Mec. New..png",
-			"size": 50358
-		},
-		{
-			"name": "OpenFing.png",
-			"type": "file",
-			"path": "Asignaturas/OpenFing.png",
-			"size": 6721
-		},
-		{
-			"name": "Parciales.png",
-			"type": "file",
-			"path": "Asignaturas/Parciales.png",
-			"size": 133843
-		},
-		{
-			"name": "Primeros parciales.png",
-			"type": "file",
-			"path": "Asignaturas/Primeros parciales.png",
-			"size": 16112
-		},
-		{
-			"name": "Programaci\u00f3n 1",
-			"type": "folder",
-			"path": "Asignaturas/Programaci\u00f3n 1",
-			"items": [
-				{
-					"name": "Ex\u00e1menes",
-					"type": "folder",
-					"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes",
-					"items": [
-						{
-							"name": "Agosto 2020. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Agosto 2020. Letra.pdf",
-							"size": 64438
-						},
-						{
-							"name": "Agosto 2020. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Agosto 2020. Solucion.pdf",
-							"size": 60857
-						},
-						{
-							"name": "Diciembre 2015. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Diciembre 2015. Letra.pdf",
-							"size": 64553
-						},
-						{
-							"name": "Diciembre 2015. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Diciembre 2015. Solucion.pdf",
-							"size": 31718
-						},
-						{
-							"name": "Diciembre 2016. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Diciembre 2016. Letra.pdf",
-							"size": 47652
-						},
-						{
-							"name": "Diciembre 2016. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Diciembre 2016. Solucion.pdf",
-							"size": 22024
-						},
-						{
-							"name": "Diciembre 2017. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Diciembre 2017. Letra.pdf",
-							"size": 59676
-						},
-						{
-							"name": "Diciembre 2017. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Diciembre 2017. Solucion.pdf",
-							"size": 29699
-						},
-						{
-							"name": "Diciembre 2018. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Diciembre 2018. Letra.pdf",
-							"size": 63354
-						},
-						{
-							"name": "Diciembre 2018. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Diciembre 2018. Solucion.pdf",
-							"size": 107323
-						},
-						{
-							"name": "Diciembre 2019. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Diciembre 2019. Letra.pdf",
-							"size": 65987
-						},
-						{
-							"name": "Diciembre 2019. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Diciembre 2019. Solucion.pdf",
-							"size": 146053
-						},
-						{
-							"name": "Diciembre 2021. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Diciembre 2021. Letra.pdf",
-							"size": 175302
-						},
-						{
-							"name": "Diciembre 2021. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Diciembre 2021. Solucion.pdf",
-							"size": 185357
-						},
-						{
-							"name": "Febrero 2016. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Febrero 2016. Letra.pdf",
-							"size": 112840
-						},
-						{
-							"name": "Febrero 2016. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Febrero 2016. Solucion.pdf",
-							"size": 35104
-						},
-						{
-							"name": "Febrero 2017. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Febrero 2017. Letra.pdf",
-							"size": 98003
-						},
-						{
-							"name": "Febrero 2017. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Febrero 2017. Solucion.pdf",
-							"size": 37331
-						},
-						{
-							"name": "Febrero 2018. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Febrero 2018. Letra.pdf",
-							"size": 117216
-						},
-						{
-							"name": "Febrero 2018. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Febrero 2018. Solucion.pdf",
-							"size": 58051
-						},
-						{
-							"name": "Febrero 2019. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Febrero 2019. Letra.pdf",
-							"size": 130046
-						},
-						{
-							"name": "Febrero 2019. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Febrero 2019. Solucion.pdf",
-							"size": 57866
-						},
-						{
-							"name": "Febrero 2020. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Febrero 2020. Letra.pdf",
-							"size": 76966
-						},
-						{
-							"name": "Febrero 2020. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Febrero 2020. Solucion.pdf",
-							"size": 34485
-						},
-						{
-							"name": "Febrero 2021. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Febrero 2021. Letra.pdf",
-							"size": 65556
-						},
-						{
-							"name": "Febrero 2021. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Febrero 2021. Solucion.pdf",
-							"size": 69363
-						},
-						{
-							"name": "Febrero 2022. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Febrero 2022. Letra.pdf",
-							"size": 151038
-						},
-						{
-							"name": "Febrero 2022. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Febrero 2022. Solucion.pdf",
-							"size": 168350
-						},
-						{
-							"name": "Julio 2017. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Julio 2017. Letra.pdf",
-							"size": 131251
-						},
-						{
-							"name": "Julio 2017. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Julio 2017. Solucion.pdf",
-							"size": 39895
-						},
-						{
-							"name": "Julio 2018. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Julio 2018. Letra.pdf",
-							"size": 139963
-						},
-						{
-							"name": "Julio 2018. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Julio 2018. Solucion.pdf",
-							"size": 68072
-						},
-						{
-							"name": "Julio 2019. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Julio 2019. Letra.pdf",
-							"size": 67163
-						},
-						{
-							"name": "Julio 2019. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Julio 2019. Solucion.pdf",
-							"size": 39788
-						},
-						{
-							"name": "Marzo 2021. Letra.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Marzo 2021. Letra.pdf",
-							"size": 50795
-						},
-						{
-							"name": "Marzo 2021. Solucion.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Ex\u00e1menes/Marzo 2021. Solucion.pdf",
-							"size": 65514
-						}
-					]
-				},
-				{
-					"name": "Parciales",
-					"type": "folder",
-					"path": "Asignaturas/Programaci\u00f3n 1/Parciales",
-					"items": [
-						{
-							"name": "Primeros parciales",
-							"type": "folder",
-							"path": "Asignaturas/Programaci\u00f3n 1/Parciales/Primeros parciales",
-							"items": []
-						},
-						{
-							"name": "Segundos parciales",
-							"type": "folder",
-							"path": "Asignaturas/Programaci\u00f3n 1/Parciales/Segundos parciales",
-							"items": []
-						}
-					]
-				},
-				{
-					"name": "Pr\u00e1ctico",
-					"type": "folder",
-					"path": "Asignaturas/Programaci\u00f3n 1/Pr\u00e1ctico",
-					"items": []
-				},
-				{
-					"name": "Te\u00f3rico",
-					"type": "folder",
-					"path": "Asignaturas/Programaci\u00f3n 1/Te\u00f3rico",
-					"items": [
-						{
-							"name": "Resumen del curso.pdf",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/Te\u00f3rico/Resumen del curso.pdf",
-							"size": 671251
-						}
-					]
-				},
-				{
-					"name": "zEVA",
-					"type": "folder",
-					"path": "Asignaturas/Programaci\u00f3n 1/zEVA",
-					"items": [
-						{
-							"name": "linke.html",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/zEVA/linke.html",
-							"size": 174
-						}
-					]
-				},
-				{
-					"name": "zOpenFing",
-					"type": "folder",
-					"path": "Asignaturas/Programaci\u00f3n 1/zOpenFing",
-					"items": [
-						{
-							"name": "linko.html",
-							"type": "file",
-							"path": "Asignaturas/Programaci\u00f3n 1/zOpenFing/linko.html",
-							"size": 153
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "Programaci\u00f3n 1.png",
-			"type": "file",
-			"path": "Asignaturas/Programaci\u00f3n 1.png",
-			"size": 54004
-		},
-		{
-			"name": "Pr\u00e1ctico.png",
-			"type": "file",
-			"path": "Asignaturas/Pr\u00e1ctico.png",
-			"size": 29448
-		},
-		{
-			"name": "PyE",
-			"type": "folder",
-			"path": "Asignaturas/PyE",
-			"items": [
-				{
-					"name": "Ex\u00e1menes",
-					"type": "folder",
-					"path": "Asignaturas/PyE/Ex\u00e1menes",
-					"items": []
-				},
-				{
-					"name": "Parciales",
-					"type": "folder",
-					"path": "Asignaturas/PyE/Parciales",
-					"items": [
-						{
-							"name": "Primeros parciales",
-							"type": "folder",
-							"path": "Asignaturas/PyE/Parciales/Primeros parciales",
-							"items": []
-						},
-						{
-							"name": "Segundos parciales",
-							"type": "folder",
-							"path": "Asignaturas/PyE/Parciales/Segundos parciales",
-							"items": []
-						}
-					]
-				},
-				{
-					"name": "Pr\u00e1ctico",
-					"type": "folder",
-					"path": "Asignaturas/PyE/Pr\u00e1ctico",
-					"items": [
-						{
-							"name": "Pr\u00e1ctico 1.pdf",
-							"type": "file",
-							"path": "Asignaturas/PyE/Pr\u00e1ctico/Pr\u00e1ctico 1.pdf",
-							"size": 11186834
-						},
-						{
-							"name": "Pr\u00e1ctico 2.pdf",
-							"type": "file",
-							"path": "Asignaturas/PyE/Pr\u00e1ctico/Pr\u00e1ctico 2.pdf",
-							"size": 3831709
-						}
-					]
-				},
-				{
-					"name": "Te\u00f3rico",
-					"type": "folder",
-					"path": "Asignaturas/PyE/Te\u00f3rico",
-					"items": [
-						{
-							"name": "Resumen primer parcial PyE.pdf",
-							"type": "file",
-							"path": "Asignaturas/PyE/Te\u00f3rico/Resumen primer parcial PyE.pdf",
-							"size": 323519
-						}
-					]
-				},
-				{
-					"name": "zEVA",
-					"type": "folder",
-					"path": "Asignaturas/PyE/zEVA",
-					"items": [
-						{
-							"name": "linke.html",
-							"type": "file",
-							"path": "Asignaturas/PyE/zEVA/linke.html",
-							"size": 174
-						}
-					]
-				},
-				{
-					"name": "zOpenFing",
-					"type": "folder",
-					"path": "Asignaturas/PyE/zOpenFing",
-					"items": [
-						{
-							"name": "linko.html",
-							"type": "file",
-							"path": "Asignaturas/PyE/zOpenFing/linko.html",
-							"size": 156
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "PyE.png",
-			"type": "file",
-			"path": "Asignaturas/PyE.png",
-			"size": 23439
-		},
-		{
-			"name": "Segundos parciales.png",
-			"type": "file",
-			"path": "Asignaturas/Segundos parciales.png",
-			"size": 16112
-		},
-		{
-			"name": "Te\u00f3rico.png",
-			"type": "file",
-			"path": "Asignaturas/Te\u00f3rico.png",
-			"size": 197310
-		},
-		{
-			"name": "archive_220310_183218.zip",
-			"type": "file",
-			"path": "Asignaturas/archive_220310_183218.zip",
-			"size": 342426951
-		},
-		{
-			"name": "exam.png",
-			"type": "file",
-			"path": "Asignaturas/exam.png",
-			"size": 53394
-		},
-		{
-			"name": "geo3d.png",
-			"type": "file",
-			"path": "Asignaturas/geo3d.png",
-			"size": 14783
-		},
-		{
-			"name": "mathway.png",
-			"type": "file",
-			"path": "Asignaturas/mathway.png",
-			"size": 27247
-		},
-		{
-			"name": "openf.png",
-			"type": "file",
-			"path": "Asignaturas/openf.png",
-			"size": 6721
-		},
-		{
-			"name": "parc.png",
-			"type": "file",
-			"path": "Asignaturas/parc.png",
-			"size": 133843
-		},
-		{
-			"name": "prac.png",
-			"type": "file",
-			"path": "Asignaturas/prac.png",
-			"size": 224801
-		},
-		{
-			"name": "teo.png",
-			"type": "file",
-			"path": "Asignaturas/teo.png",
-			"size": 224801
-		},
-		{
-			"name": "wolfram.png",
-			"type": "file",
-			"path": "Asignaturas/wolfram.png",
-			"size": 30501
+			"children": []
 		}
 	]
 }

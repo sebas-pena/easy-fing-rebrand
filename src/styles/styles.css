@@ -2,6 +2,10 @@
 
 @import "./base.css";
 
+/* ANIMATIONS */
+
+@import "./animations.css";
+
 /* COMPONENTS */
 
 @import "./components/header.css";

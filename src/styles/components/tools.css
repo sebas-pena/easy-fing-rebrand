@@ -43,3 +43,10 @@
 .tools__list > li > a > img{
   width: 100%;
 }
+
+@media only screen and (max-width: 750px) {
+  .tools__ctn{
+    flex-direction: column;
+  }
+
+}

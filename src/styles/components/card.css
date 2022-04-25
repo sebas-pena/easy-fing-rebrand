@@ -12,6 +12,7 @@
     background-color: #0348a9;
     color: #fff;
     user-select: none;
+    animation: fadeIn 1s linear;
 }
 
 .card__ctn:hover > .card__img-ctn > img{
@@ -34,3 +35,4 @@
     position: relative;
     font-size: 30px;
 }
+
