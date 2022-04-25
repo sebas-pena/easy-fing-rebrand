@@ -1,44 +1,54 @@
 {
 	"tools": [
 		{
-			"name": "",
-			"imagePath": ""
+			"name": "wolframalpha",
+			"imagePath": "tools/wolfram.png",
+			"url": "https://www.wolframalpha.com/"
 		},
 		{
-			"name": "",
-			"imagePath": ""
+			"name": "geogebra",
+			"imagePath": "tools/geogebra.png",
+			"url": "https://www.geogebra.org/"
 		},
 		{
-			"name": "",
-			"imagePath": ""
+			"name": "geogebra 3d",
+			"imagePath": "tools/geogebra-3d.png",
+			"url": "http://www.geogebra.org/3d"
 		},
 		{
-			"name": "",
-			"imagePath": ""
+			"name": "symbolab",
+			"imagePath": "tools/symbolab.png",
+			"url": "https://es.symbolab.com"
 		},
 		{
-			"name": "",
-			"imagePath": ""
+			"name": "calculadora de integrales",
+			"imagePath": "tools/integral-calculator.png",
+			"url": "https://www.calculadora-de-integrales.com"
 		},
 		{
-			"name": "",
-			"imagePath": ""
+			"name": "calculadora de derivadas",
+			"imagePath": "tools/derivate-calculator.png",
+			"url": "https://www.calculadora-de-derivadas.com/"
 		},
 		{
-			"name": "",
-			"imagePath": ""
+			"name": "matrix calc",
+			"imagePath": "tools/matrix.png",
+			"url": "https://matrixcalc.org/es/"
 		},
 		{
-			"name": "",
-			"imagePath": ""
+			"name": "math way",
+			"imagePath": "tools/mathway.png",
+			"url": "https://www.mathway.com/algebra"
 		},
 		{
-			"name": "",
-			"imagePath": ""
+			"name": "eva",
+			"imagePath": "tools/eva.png",
+			"url": "https://eva.fing.edu.uy/"
 		},
 		{
-			"name": "",
-			"imagePath": ""
+			"name": "open fing",
+			"imagePath": "tools/openfing.png",
+			"url": "https://www.open.fing.edu.uy/courses"
 		}
 	]
 }

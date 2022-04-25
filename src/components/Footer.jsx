@@ -1,5 +1,11 @@
+import { SocialNetworksList } from "./SocialNetworksList"
+
 const Footer = () => {
-	return <footer></footer>
+	return (
+		<footer>
+			<SocialNetworksList />
+		</footer>
+	)
 }
 
 export default Footer

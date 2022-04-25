@@ -1,0 +1,44 @@
+.tools{
+
+}
+
+.tools__heading{
+  text-align: center;
+  margin: 10px 0;
+  color: #1b4a8b;
+  font-weight: 600;
+  
+}
+
+
+.tools__ctn{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.tools__list{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.tools__list > li {
+  border-radius: 5px;
+  width: 60px;
+  box-shadow: 0px 1px 0px 1px #bdbdbd;
+  background-color: #fff;
+  transition: background 0.3s ease-in-out;
+}
+.tools__list > li:hover {
+  background: #ececec;
+}
+
+.tools__list > li > a {
+  display: block;
+  padding: 10px;
+  padding-bottom: 6px;
+}
+.tools__list > li > a > img{
+  width: 100%;
+}

@@ -1,0 +1,26 @@
+
+.social-networks-list > h3{
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+
+.social-networks-list > ul {
+  display: flex;
+  gap: 25px;
+}
+
+
+.social-networks-list > ul > li > a{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #000;
+  font-size: 20px;
+
+}
+
+.social-networks-list > ul > li > a > img{
+  height: 24px;
+ 
+}
