@@ -1,585 +1,587 @@
 {
-	"institutes": [
-		{
-			"imageUrl": "inco-logo.png",
-			"title": "INCO",
-			"type": "folder",
-			"children": [
-				{
-					"imageUrl": "inco-logo.png",
-					"title": "Programación 1",
-					"type": "folder",
-					"children": [
-						{
-							"imageUrl": "examnen.png",
-							"title": "Exámenes",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "parciales.png",
-							"title": "Parciales",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "practicos.png",
-							"title": "Practicos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "teoricos.png",
-							"title": "Teóricos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "eva.png",
-							"title": "Eva",
-							"type": "item",
-							"url": "https://eva.fing.edu.uy/course/view.php?id=58"
-						},
-						{
-							"imageUrl": "openfing.png",
-							"title": "Open Fing",
-							"type": "item",
-							"url": "https://open.fing.edu.uy/courses/p1"
-						}
-					]
-				}
-			]
-		},
-		{
-			"imageUrl": "disi-logo.png",
-			"title": "DISI",
-			"type": "folder",
-			"children": [
-				{
-					"imageUrl": "disi-logo.png",
-					"title": "Intr. al Derecho",
-					"type": "folder",
-					"children": [
-						{
-							"imageUrl": "diapositiva.png",
-							"title": "Diapositivas",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "parciales.png",
-							"title": "Parciales",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "eva.png",
-							"title": "Eva",
-							"type": "item",
-							"url": "https://eva.fing.edu.uy/course/view.php?id=1374"
-						}
-					]
-				}
-			]
-		},
-		{
-			"imageUrl": "ia-logo.png",
-			"title": "IIA",
-			"type": "folder",
-			"children": []
-		},
-		{
-			"imageUrl": "iem-logo.png",
-			"title": "IEM",
-			"type": "folder",
-			"children": []
-		},
-		{
-			"imageUrl": "iffi-logo.png",
-			"title": "IFFI",
-			"type": "folder",
-			"children": [
-				{
-					"imageUrl": "iffi-logo.png",
-					"title": "Física 1",
-					"type": "folder",
-					"children": [
-						{
-							"imageUrl": "examnen.png",
-							"title": "Exámenes",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "parciales.png",
-							"title": "Parciales",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "practicos.png",
-							"title": "Practicos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "teoricos.png",
-							"title": "Teóricos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "eva.png",
-							"title": "Eva",
-							"type": "item",
-							"url": "https://eva.fing.edu.uy/course/view.php?id=87"
-						},
-						{
-							"imageUrl": "openfing.png",
-							"title": "Open Fing",
-							"type": "item",
-							"url": "https://open.fing.edu.uy/courses/f1-2018"
-						}
-					]
-				},
-				{
-					"imageUrl": "iffi-logo.png",
-					"title": "Física 2",
-					"type": "folder",
-					"children": [
-						{
-							"imageUrl": "examnen.png",
-							"title": "Exámenes",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "parciales.png",
-							"title": "Parciales",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "practicos.png",
-							"title": "Practicos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "teoricos.png",
-							"title": "Teóricos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "eva.png",
-							"title": "Eva",
-							"type": "item",
-							"url": "https://eva.fing.edu.uy/course/view.php?id=32"
-						},
-						{
-							"imageUrl": "openfing.png",
-							"title": "Open Fing",
-							"type": "item",
-							"url": "https://open.fing.edu.uy/courses/f2"
-						}
-					]
-				},
-				{
-					"imageUrl": "iffi-logo.png",
-					"title": "Física 3",
-					"type": "folder",
-					"children": [
-						{
-							"imageUrl": "examnen.png",
-							"title": "Exámenes",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "parciales.png",
-							"title": "Parciales",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "practicos.png",
-							"title": "Practicos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "teoricos.png",
-							"title": "Teóricos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "eva.png",
-							"title": "Eva",
-							"type": "item",
-							"url": "https://eva.fing.edu.uy/course/view.php?id=36"
-						},
-						{
-							"imageUrl": "openfing.png",
-							"title": "Open Fing",
-							"type": "item",
-							"url": "https://open.fing.edu.uy/courses/f3"
-						}
-					]
-				},
-				{
-					"imageUrl": "iffi-logo.png",
-					"title": "Física Expe. 1",
-					"type": "folder",
-					"children": [
-						{
-							"imageUrl": "practicos.png",
-							"title": "Practicos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "eva.png",
-							"title": "Eva",
-							"type": "item",
-							"url": "https://eva.fing.edu.uy/course/view.php?id=36"
-						}
-					]
-				}
-			]
-		},
-		{
-			"imageUrl": "iie-logo.png",
-			"title": "IIE",
-			"type": "folder",
-			"children": []
-		},
-		{
-			"imageUrl": "iimpi-logo.png",
-			"title": "IIMPI",
-			"type": "folder",
-			"children": []
-		},
-		{
-			"imageUrl": "iiq-logo.png",
-			"title": "IIQ",
-			"type": "folder",
-			"children": []
-		},
-		{
-			"imageUrl": "imerl-logo.png",
-			"title": "IMERL",
-			"type": "folder",
-			"children": [
-				{
-					"imageUrl": "imerl-logo.png",
-					"title": "Cálculo DIV",
-					"type": "folder",
-					"children": [
-						{
-							"imageUrl": "examnen.png",
-							"title": "Exámenes",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "parciales.png",
-							"title": "Parciales",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "practicos.png",
-							"title": "Practicos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "teoricos.png",
-							"title": "Teóricos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "eva.png",
-							"title": "Eva",
-							"type": "item",
-							"url": "https://eva.fing.edu.uy/course/view.php?id=1024"
-						},
-						{
-							"imageUrl": "openfing.png",
-							"title": "Open Fing",
-							"type": "item",
-							"url": "https://open.fing.edu.uy/courses/civ"
-						}
-					]
-				},
-				{
-					"imageUrl": "imerl-logo.png",
-					"title": "Cálculo DIVV",
-					"type": "folder",
-					"children": [
-						{
-							"imageUrl": "examnen.png",
-							"title": "Exámenes",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "parciales.png",
-							"title": "Parciales",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "practicos.png",
-							"title": "Practicos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "teoricos.png",
-							"title": "Teóricos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "eva.png",
-							"title": "Eva",
-							"type": "item",
-							"url": "https://open.fing.edu.uy/courses/cdivv"
-						},
-						{
-							"imageUrl": "openfing.png",
-							"title": "Open Fing",
-							"type": "item",
-							"url": "https://eva.fing.edu.uy/course/view.php?id=1594"
-						}
-					]
-				},
-				{
-					"imageUrl": "imerl-logo.png",
-					"title": "Cálculo V",
-					"type": "folder",
-					"children": [
-						{
-							"imageUrl": "examnen.png",
-							"title": "Exámenes",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "parciales.png",
-							"title": "Parciales",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "practicos.png",
-							"title": "Practicos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "teoricos.png",
-							"title": "Teóricos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "eva.png",
-							"title": "Eva",
-							"type": "item",
-							"url": "https://eva.fing.edu.uy/enrol/index.php?id=1498"
-						},
-						{
-							"imageUrl": "openfing.png",
-							"title": "Open Fing",
-							"type": "item",
-							"url": "https://open.fing.edu.uy/courses/calcvec"
-						}
-					]
-				},
-				{
-					"imageUrl": "imerl-logo.png",
-					"title": "GAL 1",
-					"type": "folder",
-					"children": [
-						{
-							"imageUrl": "examnen.png",
-							"title": "Exámenes",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "parciales.png",
-							"title": "Parciales",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "practicos.png",
-							"title": "Practicos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "teoricos.png",
-							"title": "Teóricos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "eva.png",
-							"title": "Eva",
-							"type": "item",
-							"url": "https://eva.fing.edu.uy/course/view.php?id=1597"
-						},
-						{
-							"imageUrl": "openfing.png",
-							"title": "Open Fing",
-							"type": "item",
-							"url": "https://open.fing.edu.uy/courses/gal121"
-						}
-					]
-				},
-				{
-					"imageUrl": "imerl-logo.png",
-					"title": "GAL 2",
-					"type": "folder",
-					"children": [
-						{
-							"imageUrl": "examnen.png",
-							"title": "Exámenes",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "parciales.png",
-							"title": "Parciales",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "practicos.png",
-							"title": "Practicos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "teoricos.png",
-							"title": "Teóricos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "eva.png",
-							"title": "Eva",
-							"type": "item",
-							"url": "https://eva.fing.edu.uy/enrol/index.php?id=270"
-						},
-						{
-							"imageUrl": "openfing.png",
-							"title": "Open Fing",
-							"type": "item",
-							"url": "https://open.fing.edu.uy/courses/gal219"
-						}
-					]
-				},
-				{
-					"imageUrl": "imerl-logo.png",
-					"title": "Discreta 1",
-					"type": "folder",
-					"children": [
-						{
-							"imageUrl": "examnen.png",
-							"title": "Exámenes",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "parciales.png",
-							"title": "Parciales",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "practicos.png",
-							"title": "Practicos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "teoricos.png",
-							"title": "Teóricos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "eva.png",
-							"title": "Eva",
-							"type": "item",
-							"url": "https://eva.fing.edu.uy/course/view.php?id=323&section=0#tabs-tree-start"
-						},
-						{
-							"imageUrl": "openfing.png",
-							"title": "Open Fing",
-							"type": "item",
-							"url": "https://open.fing.edu.uy/courses/md1-2020"
-						}
-					]
-				},
-				{
-					"imageUrl": "imerl-logo.png",
-					"title": "PYE",
-					"type": "folder",
-					"children": [
-						{
-							"imageUrl": "examnen.png",
-							"title": "Exámenes",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "parciales.png",
-							"title": "Parciales",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "practicos.png",
-							"title": "Practicos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "teoricos.png",
-							"title": "Teóricos",
-							"type": "folder",
-							"children": []
-						},
-						{
-							"imageUrl": "eva.png",
-							"title": "Eva",
-							"type": "item",
-							"url": "https://eva.fing.edu.uy/course/view.php?id=54"
-						},
-						{
-							"imageUrl": "openfing.png",
-							"title": "Open Fing",
-							"type": "item",
-							"url": "https://open.fing.edu.uy/courses/pye18"
-						}
-					]
-				}
-			]
-		},
-		{
-			"imageUrl": "imfia-logo.png",
-			"title": "IMFIA",
-			"type": "folder",
-			"children": []
-		}
-	]
+  "institutes": {
+    "children": [
+      {
+        "imageUrl": "inco-logo.png",
+        "title": "INCO",
+        "type": "folder",
+        "children": [
+          {
+            "imageUrl": "inco-logo.png",
+            "title": "Programación 1",
+            "type": "folder",
+            "children": [
+              {
+                "imageUrl": "examnen.png",
+                "title": "Exámenes",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "parciales.png",
+                "title": "Parciales",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "practicos.png",
+                "title": "Practicos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "teoricos.png",
+                "title": "Teóricos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "eva.png",
+                "title": "Eva",
+                "type": "item",
+                "url": "https://eva.fing.edu.uy/course/view.php?id=58"
+              },
+              {
+                "imageUrl": "openfing.png",
+                "title": "Open Fing",
+                "type": "item",
+                "url": "https://open.fing.edu.uy/courses/p1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "imageUrl": "disi-logo.png",
+        "title": "DISI",
+        "type": "folder",
+        "children": [
+          {
+            "imageUrl": "disi-logo.png",
+            "title": "Intr. al Derecho",
+            "type": "folder",
+            "children": [
+              {
+                "imageUrl": "diapositiva.png",
+                "title": "Diapositivas",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "parciales.png",
+                "title": "Parciales",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "eva.png",
+                "title": "Eva",
+                "type": "item",
+                "url": "https://eva.fing.edu.uy/course/view.php?id=1374"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "imageUrl": "ia-logo.png",
+        "title": "IIA",
+        "type": "folder",
+        "children": []
+      },
+      {
+        "imageUrl": "iem-logo.png",
+        "title": "IEM",
+        "type": "folder",
+        "children": []
+      },
+      {
+        "imageUrl": "iffi-logo.png",
+        "title": "IFFI",
+        "type": "folder",
+        "children": [
+          {
+            "imageUrl": "iffi-logo.png",
+            "title": "Física 1",
+            "type": "folder",
+            "children": [
+              {
+                "imageUrl": "examnen.png",
+                "title": "Exámenes",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "parciales.png",
+                "title": "Parciales",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "practicos.png",
+                "title": "Practicos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "teoricos.png",
+                "title": "Teóricos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "eva.png",
+                "title": "Eva",
+                "type": "item",
+                "url": "https://eva.fing.edu.uy/course/view.php?id=87"
+              },
+              {
+                "imageUrl": "openfing.png",
+                "title": "Open Fing",
+                "type": "item",
+                "url": "https://open.fing.edu.uy/courses/f1-2018"
+              }
+            ]
+          },
+          {
+            "imageUrl": "iffi-logo.png",
+            "title": "Física 2",
+            "type": "folder",
+            "children": [
+              {
+                "imageUrl": "examnen.png",
+                "title": "Exámenes",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "parciales.png",
+                "title": "Parciales",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "practicos.png",
+                "title": "Practicos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "teoricos.png",
+                "title": "Teóricos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "eva.png",
+                "title": "Eva",
+                "type": "item",
+                "url": "https://eva.fing.edu.uy/course/view.php?id=32"
+              },
+              {
+                "imageUrl": "openfing.png",
+                "title": "Open Fing",
+                "type": "item",
+                "url": "https://open.fing.edu.uy/courses/f2"
+              }
+            ]
+          },
+          {
+            "imageUrl": "iffi-logo.png",
+            "title": "Física 3",
+            "type": "folder",
+            "children": [
+              {
+                "imageUrl": "examnen.png",
+                "title": "Exámenes",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "parciales.png",
+                "title": "Parciales",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "practicos.png",
+                "title": "Practicos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "teoricos.png",
+                "title": "Teóricos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "eva.png",
+                "title": "Eva",
+                "type": "item",
+                "url": "https://eva.fing.edu.uy/course/view.php?id=36"
+              },
+              {
+                "imageUrl": "openfing.png",
+                "title": "Open Fing",
+                "type": "item",
+                "url": "https://open.fing.edu.uy/courses/f3"
+              }
+            ]
+          },
+          {
+            "imageUrl": "iffi-logo.png",
+            "title": "Física Expe. 1",
+            "type": "folder",
+            "children": [
+              {
+                "imageUrl": "practicos.png",
+                "title": "Practicos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "eva.png",
+                "title": "Eva",
+                "type": "item",
+                "url": "https://eva.fing.edu.uy/course/view.php?id=36"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "imageUrl": "iie-logo.png",
+        "title": "IIE",
+        "type": "folder",
+        "children": []
+      },
+      {
+        "imageUrl": "iimpi-logo.png",
+        "title": "IIMPI",
+        "type": "folder",
+        "children": []
+      },
+      {
+        "imageUrl": "iiq-logo.png",
+        "title": "IIQ",
+        "type": "folder",
+        "children": []
+      },
+      {
+        "imageUrl": "imerl-logo.png",
+        "title": "IMERL",
+        "type": "folder",
+        "children": [
+          {
+            "imageUrl": "imerl-logo.png",
+            "title": "Cálculo DIV",
+            "type": "folder",
+            "children": [
+              {
+                "imageUrl": "examnen.png",
+                "title": "Exámenes",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "parciales.png",
+                "title": "Parciales",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "practicos.png",
+                "title": "Practicos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "teoricos.png",
+                "title": "Teóricos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "eva.png",
+                "title": "Eva",
+                "type": "item",
+                "url": "https://eva.fing.edu.uy/course/view.php?id=1024"
+              },
+              {
+                "imageUrl": "openfing.png",
+                "title": "Open Fing",
+                "type": "item",
+                "url": "https://open.fing.edu.uy/courses/civ"
+              }
+            ]
+          },
+          {
+            "imageUrl": "imerl-logo.png",
+            "title": "Cálculo DIVV",
+            "type": "folder",
+            "children": [
+              {
+                "imageUrl": "examnen.png",
+                "title": "Exámenes",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "parciales.png",
+                "title": "Parciales",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "practicos.png",
+                "title": "Practicos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "teoricos.png",
+                "title": "Teóricos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "eva.png",
+                "title": "Eva",
+                "type": "item",
+                "url": "https://open.fing.edu.uy/courses/cdivv"
+              },
+              {
+                "imageUrl": "openfing.png",
+                "title": "Open Fing",
+                "type": "item",
+                "url": "https://eva.fing.edu.uy/course/view.php?id=1594"
+              }
+            ]
+          },
+          {
+            "imageUrl": "imerl-logo.png",
+            "title": "Cálculo V",
+            "type": "folder",
+            "children": [
+              {
+                "imageUrl": "examnen.png",
+                "title": "Exámenes",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "parciales.png",
+                "title": "Parciales",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "practicos.png",
+                "title": "Practicos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "teoricos.png",
+                "title": "Teóricos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "eva.png",
+                "title": "Eva",
+                "type": "item",
+                "url": "https://eva.fing.edu.uy/enrol/index.php?id=1498"
+              },
+              {
+                "imageUrl": "openfing.png",
+                "title": "Open Fing",
+                "type": "item",
+                "url": "https://open.fing.edu.uy/courses/calcvec"
+              }
+            ]
+          },
+          {
+            "imageUrl": "imerl-logo.png",
+            "title": "GAL 1",
+            "type": "folder",
+            "children": [
+              {
+                "imageUrl": "examnen.png",
+                "title": "Exámenes",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "parciales.png",
+                "title": "Parciales",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "practicos.png",
+                "title": "Practicos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "teoricos.png",
+                "title": "Teóricos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "eva.png",
+                "title": "Eva",
+                "type": "item",
+                "url": "https://eva.fing.edu.uy/course/view.php?id=1597"
+              },
+              {
+                "imageUrl": "openfing.png",
+                "title": "Open Fing",
+                "type": "item",
+                "url": "https://open.fing.edu.uy/courses/gal121"
+              }
+            ]
+          },
+          {
+            "imageUrl": "imerl-logo.png",
+            "title": "GAL 2",
+            "type": "folder",
+            "children": [
+              {
+                "imageUrl": "examnen.png",
+                "title": "Exámenes",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "parciales.png",
+                "title": "Parciales",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "practicos.png",
+                "title": "Practicos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "teoricos.png",
+                "title": "Teóricos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "eva.png",
+                "title": "Eva",
+                "type": "item",
+                "url": "https://eva.fing.edu.uy/enrol/index.php?id=270"
+              },
+              {
+                "imageUrl": "openfing.png",
+                "title": "Open Fing",
+                "type": "item",
+                "url": "https://open.fing.edu.uy/courses/gal219"
+              }
+            ]
+          },
+          {
+            "imageUrl": "imerl-logo.png",
+            "title": "Discreta 1",
+            "type": "folder",
+            "children": [
+              {
+                "imageUrl": "examnen.png",
+                "title": "Exámenes",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "parciales.png",
+                "title": "Parciales",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "practicos.png",
+                "title": "Practicos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "teoricos.png",
+                "title": "Teóricos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "eva.png",
+                "title": "Eva",
+                "type": "item",
+                "url": "https://eva.fing.edu.uy/course/view.php?id=323&section=0#tabs-tree-start"
+              },
+              {
+                "imageUrl": "openfing.png",
+                "title": "Open Fing",
+                "type": "item",
+                "url": "https://open.fing.edu.uy/courses/md1-2020"
+              }
+            ]
+          },
+          {
+            "imageUrl": "imerl-logo.png",
+            "title": "PYE",
+            "type": "folder",
+            "children": [
+              {
+                "imageUrl": "examnen.png",
+                "title": "Exámenes",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "parciales.png",
+                "title": "Parciales",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "practicos.png",
+                "title": "Practicos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "teoricos.png",
+                "title": "Teóricos",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "imageUrl": "eva.png",
+                "title": "Eva",
+                "type": "item",
+                "url": "https://eva.fing.edu.uy/course/view.php?id=54"
+              },
+              {
+                "imageUrl": "openfing.png",
+                "title": "Open Fing",
+                "type": "item",
+                "url": "https://open.fing.edu.uy/courses/pye18"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "imageUrl": "imfia-logo.png",
+        "title": "IMFIA",
+        "type": "folder",
+        "children": []
+      }
+    ]
+  }
 }
