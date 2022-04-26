@@ -2,6 +2,7 @@ header.header__ctn{
   display: flex;
   flex-direction: column;
   justify-content: center;
+  width: 100%;
   margin: 0 auto;
   color: #1D3557;
   background-color: #fafafc;

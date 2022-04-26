@@ -10,6 +10,9 @@ html, body {
 }
 
 #root{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   background: linear-gradient(167deg, #ffffff 0%, #b3ddfb 100%);
 }
 
@@ -19,4 +22,14 @@ ul, ol {
 
 a:link{
   text-decoration: none;
+}
+
+.pages-ctn{
+  display:flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  margin: 50px 0;
+  
 }

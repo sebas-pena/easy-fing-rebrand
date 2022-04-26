@@ -56,16 +56,37 @@ const Cardsgallery = () => {
 					<SearchIcon size="20" color="#333" />
 				</div>
 			</div>
-			<div className="card-gallery__cards-ctn">
-				{cards.map((card, index) => (
-					<button
-						key={card.title}
-						onClick={(e) => handleChangeGallery(e, index)}
-					>
-						<Card imageUrl={card.imageUrl} heading={card.title} />
-					</button>
-				))}
-			</div>
+			{cards.length > 0 ? (
+				<div className="card-gallery__cards-ctn">
+					{cards.map((card, index) =>
+						card.type === "folder" ? (
+							<button
+								key={card.title}
+								onClick={(e) => handleChangeGallery(e, index)}
+							>
+								<Card imageUrl={card.imageUrl} heading={card.title} />
+							</button>
+						) : (
+							<a
+								key={card.title}
+								href={card.url}
+								target="_blank"
+								rel="noopener norefferer"
+							>
+								<Card imageUrl={card.imageUrl} heading={card.title} />
+							</a>
+						)
+					)}
+				</div>
+			) : (
+				<div className="gallery__empaty">
+					<img src="/content/images/404.webp" alt="code 404" />
+					<p>
+						Aún no hay material, si deseas puedes colaborar enviando un correo a
+						<span className="gallery__empaty-email">contacto@easyfing.com</span>
+					</p>
+				</div>
+			)}
 		</section>
 	)
 }
