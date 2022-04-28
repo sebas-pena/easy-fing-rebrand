@@ -19,16 +19,19 @@
   flex: 1;
   width: 100%
 }
-
-.contact-form__input-ctn >label{
+.contact-form__input-ctn > label{
   position: absolute;
-  top: 5px;
   font-weight: 500;
-  color:rgb(167, 167, 167);
   transition: all .3s ease-in-out;
 }
 
-.contact-form__input-ctn:focus-within > label{
+.contact-form__input-ctn > label.inactive{
+  top: 5px;
+  color:rgb(167, 167, 167);
+}
+
+.contact-form__input-ctn:focus-within > label.inactive,
+.contact-form__input-ctn > label.active{
   color:#1b4a8b;
   top: -10px;
 
