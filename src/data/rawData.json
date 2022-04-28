@@ -11,7 +11,7 @@
 					"type": "folder",
 					"children": [
 						{
-							"imageUrl": "examnen.png",
+							"imageUrl": "examenes.png",
 							"title": "Exámenes",
 							"type": "folder",
 							"children": []
@@ -41,7 +41,7 @@
 							"url": "https://eva.fing.edu.uy/course/view.php?id=58"
 						},
 						{
-							"imageUrl": "openfing.png",
+							"imageUrl": "open-fing.png",
 							"title": "Open Fing",
 							"type": "item",
 							"url": "https://open.fing.edu.uy/courses/p1"
@@ -105,7 +105,7 @@
 					"type": "folder",
 					"children": [
 						{
-							"imageUrl": "examnen.png",
+							"imageUrl": "examenes.png",
 							"title": "Exámenes",
 							"type": "folder",
 							"children": []
@@ -135,7 +135,7 @@
 							"url": "https://eva.fing.edu.uy/course/view.php?id=87"
 						},
 						{
-							"imageUrl": "openfing.png",
+							"imageUrl": "open-fing.png",
 							"title": "Open Fing",
 							"type": "item",
 							"url": "https://open.fing.edu.uy/courses/f1-2018"
@@ -148,7 +148,7 @@
 					"type": "folder",
 					"children": [
 						{
-							"imageUrl": "examnen.png",
+							"imageUrl": "examenes.png",
 							"title": "Exámenes",
 							"type": "folder",
 							"children": []
@@ -178,7 +178,7 @@
 							"url": "https://eva.fing.edu.uy/course/view.php?id=32"
 						},
 						{
-							"imageUrl": "openfing.png",
+							"imageUrl": "open-fing.png",
 							"title": "Open Fing",
 							"type": "item",
 							"url": "https://open.fing.edu.uy/courses/f2"
@@ -191,7 +191,7 @@
 					"type": "folder",
 					"children": [
 						{
-							"imageUrl": "examnen.png",
+							"imageUrl": "examenes.png",
 							"title": "Exámenes",
 							"type": "folder",
 							"children": []
@@ -221,7 +221,7 @@
 							"url": "https://eva.fing.edu.uy/course/view.php?id=36"
 						},
 						{
-							"imageUrl": "openfing.png",
+							"imageUrl": "open-fing.png",
 							"title": "Open Fing",
 							"type": "item",
 							"url": "https://open.fing.edu.uy/courses/f3"
@@ -278,7 +278,7 @@
 					"type": "folder",
 					"children": [
 						{
-							"imageUrl": "examnen.png",
+							"imageUrl": "examenes.png",
 							"title": "Exámenes",
 							"type": "folder",
 							"children": []
@@ -308,7 +308,7 @@
 							"url": "https://eva.fing.edu.uy/course/view.php?id=1024"
 						},
 						{
-							"imageUrl": "openfing.png",
+							"imageUrl": "open-fing.png",
 							"title": "Open Fing",
 							"type": "item",
 							"url": "https://open.fing.edu.uy/courses/civ"
@@ -321,7 +321,7 @@
 					"type": "folder",
 					"children": [
 						{
-							"imageUrl": "examnen.png",
+							"imageUrl": "examenes.png",
 							"title": "Exámenes",
 							"type": "folder",
 							"children": []
@@ -351,7 +351,7 @@
 							"url": "https://open.fing.edu.uy/courses/cdivv"
 						},
 						{
-							"imageUrl": "openfing.png",
+							"imageUrl": "open-fing.png",
 							"title": "Open Fing",
 							"type": "item",
 							"url": "https://eva.fing.edu.uy/course/view.php?id=1594"
@@ -364,7 +364,7 @@
 					"type": "folder",
 					"children": [
 						{
-							"imageUrl": "examnen.png",
+							"imageUrl": "examenes.png",
 							"title": "Exámenes",
 							"type": "folder",
 							"children": []
@@ -394,7 +394,7 @@
 							"url": "https://eva.fing.edu.uy/enrol/index.php?id=1498"
 						},
 						{
-							"imageUrl": "openfing.png",
+							"imageUrl": "open-fing.png",
 							"title": "Open Fing",
 							"type": "item",
 							"url": "https://open.fing.edu.uy/courses/calcvec"
@@ -407,7 +407,7 @@
 					"type": "folder",
 					"children": [
 						{
-							"imageUrl": "examnen.png",
+							"imageUrl": "examenes.png",
 							"title": "Exámenes",
 							"type": "folder",
 							"children": []
@@ -437,7 +437,7 @@
 							"url": "https://eva.fing.edu.uy/course/view.php?id=1597"
 						},
 						{
-							"imageUrl": "openfing.png",
+							"imageUrl": "open-fing.png",
 							"title": "Open Fing",
 							"type": "item",
 							"url": "https://open.fing.edu.uy/courses/gal121"
@@ -450,7 +450,7 @@
 					"type": "folder",
 					"children": [
 						{
-							"imageUrl": "examnen.png",
+							"imageUrl": "examenes.png",
 							"title": "Exámenes",
 							"type": "folder",
 							"children": []
@@ -480,7 +480,7 @@
 							"url": "https://eva.fing.edu.uy/enrol/index.php?id=270"
 						},
 						{
-							"imageUrl": "openfing.png",
+							"imageUrl": "open-fing.png",
 							"title": "Open Fing",
 							"type": "item",
 							"url": "https://open.fing.edu.uy/courses/gal219"
@@ -493,7 +493,7 @@
 					"type": "folder",
 					"children": [
 						{
-							"imageUrl": "examnen.png",
+							"imageUrl": "examenes.png",
 							"title": "Exámenes",
 							"type": "folder",
 							"children": []
@@ -523,7 +523,7 @@
 							"url": "https://eva.fing.edu.uy/course/view.php?id=323&section=0#tabs-tree-start"
 						},
 						{
-							"imageUrl": "openfing.png",
+							"imageUrl": "open-fing.png",
 							"title": "Open Fing",
 							"type": "item",
 							"url": "https://open.fing.edu.uy/courses/md1-2020"
@@ -536,7 +536,7 @@
 					"type": "folder",
 					"children": [
 						{
-							"imageUrl": "examnen.png",
+							"imageUrl": "examenes.png",
 							"title": "Exámenes",
 							"type": "folder",
 							"children": []
@@ -566,7 +566,7 @@
 							"url": "https://eva.fing.edu.uy/course/view.php?id=54"
 						},
 						{
-							"imageUrl": "openfing.png",
+							"imageUrl": "open-fing.png",
 							"title": "Open Fing",
 							"type": "item",
 							"url": "https://open.fing.edu.uy/courses/pye18"
