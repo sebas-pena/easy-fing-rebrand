@@ -3,89 +3,89 @@ import useForm from "../hooks/useForm"
 import { UploadIcon } from "./Icons"
 
 const ContactForm = () => {
-	const [disableSubmit, setDisableSubmit] = useState(false)
+  const [disableSubmit, setDisableSubmit] = useState(false)
 
-	const { handleInputChange, values } = useForm({
-		name: "",
-		email: "",
-		message: "",
-		file: "",
-	})
-	const { name, email, message, file } = values
+  const { handleInputChange, values } = useForm({
+    name: "",
+    email: "",
+    message: "",
+    file: "",
+  })
+  const { name, email, message, file } = values
 
-	useEffect(() => {
-		if (name && email && message) {
-			setDisableSubmit(false)
-		} else {
-			setDisableSubmit(true)
-		}
-	}, [name, email, message])
+  useEffect(() => {
+    if (name && email && message) {
+      setDisableSubmit(false)
+    } else {
+      setDisableSubmit(true)
+    }
+  }, [name, email, message])
 
-	const handleSubmit = (e) => {
-		e.preventDefault()
-		console.log(e.target.elements)
-	}
+  const handleSubmit = (e) => {
+    e.preventDefault()
+    console.log(e.target.elements)
+  }
 
-	return (
-		<div className="contact-form__ctn">
-			<form className="contact-form" onSubmit={handleSubmit}>
-				<div className="contact-form__input-ctn">
-					<label
-						htmlFor="name"
-						className={name ? "active" : "inactive"}
-						required
-					>
-						Nombre
-					</label>
-					<input
-						id="name"
-						name="name"
-						type="text"
-						onChange={handleInputChange}
-					/>
-				</div>
-				<div className="contact-form__input-ctn">
-					<label
-						htmlFor="email"
-						className={email ? "active" : "inactive"}
-						required
-					>
-						Email
-					</label>
-					<input
-						id="email"
-						name="email"
-						type="text"
-						onChange={handleInputChange}
-					/>
-				</div>
-				<div className="contact-form__input-ctn">
-					<label
-						htmlFor="message"
-						className={message ? "active" : "inactive"}
-						required
-					>
-						Mensaje
-					</label>
-					<textarea id="message" name="message" onChange={handleInputChange} />
-				</div>
-				<div className="contact-form__bottom">
-					<label className="contact-form__file-input" htmlFor="file">
-						Adjuntar archivo
-						<UploadIcon size={13} color="#222" />
-					</label>
-					<input id="file" type="file" onChange={handleInputChange} />
-					<input
-						className="contact-form__submit"
-						type="submit"
-						value="Enviar"
-						name="file"
-						{...(disableSubmit ? { disabled: true } : {})}
-					/>
-				</div>
-			</form>
-		</div>
-	)
+  return (
+    <div className="contact-form__ctn">
+      <form className="contact-form" onSubmit={handleSubmit}>
+        <div className="contact-form__input-ctn">
+          <label
+            htmlFor="name"
+            className={name ? "active" : "inactive"}
+            required
+          >
+            Nombre
+          </label>
+          <input
+            id="name"
+            name="name"
+            type="text"
+            onChange={handleInputChange}
+          />
+        </div>
+        <div className="contact-form__input-ctn">
+          <label
+            htmlFor="email"
+            className={email ? "active" : "inactive"}
+            required
+          >
+            Email
+          </label>
+          <input
+            id="email"
+            name="email"
+            type="text"
+            onChange={handleInputChange}
+          />
+        </div>
+        <div className="contact-form__input-ctn">
+          <label
+            htmlFor="message"
+            className={message ? "active" : "inactive"}
+            required
+          >
+            Mensaje
+          </label>
+          <textarea id="message" name="message" onChange={handleInputChange} />
+        </div>
+        <div className="contact-form__bottom">
+          <label className="contact-form__file-input" htmlFor="file">
+            Adjuntar archivo
+            <UploadIcon size={13} color="#222" />
+          </label>
+          <input id="file" type="file" onChange={handleInputChange} />
+          <input
+            className="contact-form__submit"
+            type="submit"
+            value="Enviar"
+            name="file"
+            {...(disableSubmit ? { disabled: true } : {})}
+          />
+        </div>
+      </form>
+    </div>
+  )
 }
 
 export default ContactForm

@@ -19,6 +19,7 @@ nav.navbar__ctn > ul > li > a{
   font-weight: 500;
   border-bottom: 2px solid transparent;
   transition: border-color 0.3s ease-in-out;
+  text-align: center;
 }
 
 nav.navbar__ctn > ul > li:hover > a{

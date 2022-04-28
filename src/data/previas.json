@@ -1,49 +1,48 @@
 {
-	"cursos": [
-		{
-			"title": "Calculo DIV",
-			"previas": []
-		},
-		{
-			"title": "Calculo Vectorial",
-			"previas": [
-				"Cálculo DIV",
-				"Geometría y Álgebra 1",
-				"Cálculo Diferencial",
-				"Integral en Varias Variables"
-			]
-		},
-		{
-			"title": "Geometría y Álgebra Lineal 1",
-			"previas": []
-		},
-		{
-			"title": "Calculo diferencial en Varias Variables",
-			"previas": ["Cálculo DIV", "Geometría y Álgebra 1"]
-		},
-		{
-			"title": "Física 1",
-			"previas": []
-		},
-		{
-			"title": "Física 2",
-			"previas": ["Física 1", "Cálculo DIV"]
-		},
-		{
-			"title": "Física 3",
-			"previas": ["Física 1", "Cálculo DIV"]
-		},
-		{
-			"title": "Geometría y Álgebra Lineal 2",
-			"previas": ["Geometría y Álgebra 1"]
-		},
-		{
-			"title": "Ciencia, Tecnología y Sociedad",
-			"previas": []
-		},
-		{
-			"title": "Taller de Introducción a la Ingeniería Eléctrica",
-			"previas": []
-		}
-	]
+  "cursos": [
+    {
+      "title": "Calculo DIV",
+      "previas": []
+    },
+    {
+      "title": "Calculo Vectorial",
+      "previas": [
+        "Cálculo DIV",
+        "Geometría y Álgebra 1",
+        "Cálculo Diferencial e Integral en Varias Variables"
+      ]
+    },
+    {
+      "title": "Geometría y Álgebra Lineal 1",
+      "previas": []
+    },
+    {
+      "title": "Calculo diferencial en Varias Variables",
+      "previas": ["Cálculo DIV", "Geometría y Álgebra 1"]
+    },
+    {
+      "title": "Física 1",
+      "previas": []
+    },
+    {
+      "title": "Física 2",
+      "previas": ["Física 1", "Cálculo DIV"]
+    },
+    {
+      "title": "Física 3",
+      "previas": ["Física 1", "Cálculo DIV"]
+    },
+    {
+      "title": "Geometría y Álgebra Lineal 2",
+      "previas": ["Geometría y Álgebra 1"]
+    },
+    {
+      "title": "Ciencia, Tecnología y Sociedad",
+      "previas": []
+    },
+    {
+      "title": "Taller de Introducción a la Ingeniería Eléctrica",
+      "previas": []
+    }
+  ]
 }
