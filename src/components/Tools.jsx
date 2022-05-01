@@ -27,7 +27,7 @@ const Tools = () => {
 						<li key={tool.name}>
 							<a href={tool.url} target="_blank" rel="noopener noreferrer">
 								<img
-									src={`/content/images/${tool.imagePath}`}
+									src={`./content/images/${tool.imagePath}`}
 									alt={tool.name}
 								/>
 							</a>

@@ -5,7 +5,7 @@ import "./styles/styles.css"
 
 function App() {
 	return (
-		<BrowserRouter>
+		<BrowserRouter basename="easy-fing-rebrand">
 			<AppRouter />
 		</BrowserRouter>
 	)

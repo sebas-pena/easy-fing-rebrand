@@ -1,5 +1,5 @@
 const Card = ({ imageUrl, heading }) => {
-	const parsedImageUrl = `/content/images/cards-logos/${imageUrl}`
+	const parsedImageUrl = `./content/images/cards-logos/${imageUrl}`
 
 	return (
 		<div className="card__ctn">
