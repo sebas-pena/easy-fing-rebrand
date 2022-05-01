@@ -3,7 +3,7 @@ import Footer from "../components/Footer"
 import Header from "../components/Header"
 import ContactPage from "../pages/ContactPage"
 import HomePage from "../pages/HomePage"
-import PriorsPage from "../pages/PriorsPage"
+import PreviousCoursesPage from "../pages/PreviousCoursesPage"
 
 function AppRouter() {
 	return (
@@ -12,7 +12,7 @@ function AppRouter() {
 			<div className="pages-ctn">
 				<Routes>
 					<Route path="/" element={<HomePage />} />
-					<Route path="/previas" element={<PriorsPage />} />
+					<Route path="/previas" element={<PreviousCoursesPage />} />
 					<Route path="/contacto" element={<ContactPage />} />
 				</Routes>
 			</div>

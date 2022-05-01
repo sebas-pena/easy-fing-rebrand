@@ -16,5 +16,8 @@
 @import "./components/tools.css";
 @import "./components/socialNetworksList.css";
 @import "./components/contactForm.css";
+@import "./components/selectBox.css";
 
 /* PAGES */
+
+@import "./pages/previousCoursesPage.css";

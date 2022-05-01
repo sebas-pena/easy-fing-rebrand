@@ -30,9 +30,10 @@
 
 
 
-@media only screen and (max-width: 750px) {
+@media only screen and (max-width: 750px) and (min-width: 600px){
   .social-networks-list > ul {
     flex-direction: column;
   }
 
 }
+

@@ -89,3 +89,9 @@
   color: #1b4a8b;
   font-weight: 500;
 }
+
+@media only screen and (max-width:1000px) {
+  .card-gallery__ctn{
+    border-radius: 0;
+  } 
+}

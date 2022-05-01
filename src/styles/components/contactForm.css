@@ -96,3 +96,10 @@
 .contact-form__bottom > input[type="file"]{
   display: none;
 }
+
+@media screen and (max-width: 1000px) {
+  .contact-form{
+    border-radius: 0;
+  }
+  
+}

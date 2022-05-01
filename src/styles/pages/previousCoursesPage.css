@@ -1,0 +1,42 @@
+.priors-page{
+  display: grid;
+  place-content: center;
+  min-height: 300px;
+  
+}
+
+.priors-courses__ctn{
+  width: 400px;
+  text-align: center;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.priors-courses__ctn > h3{
+  margin-bottom: 15px;
+  font-weight: 500;
+}
+
+.priors__heading{
+  font-weight: 500;
+  font-size: 18px;
+  margin-top: 10px;
+  
+}
+
+.priors__list > li{
+  margin-top: 5px;  
+}
+
+.priors__list > li > p{
+  font-weight: 500;
+
+}
+
+@media only screen and (max-width: 400px) {
+  .priors-courses__ctn{
+    border-radius: 0;
+  }
+  
+}
