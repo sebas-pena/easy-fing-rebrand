@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/easy-fing-rebrand/static/css/main.ac1e9cb9.css",
+    "main.js": "/easy-fing-rebrand/static/js/main.3c5bc1cd.js",
+    "static/media/logo.png": "/easy-fing-rebrand/static/media/logo.b278606f5bd3df1481a0.png",
+    "static/media/instagram-colorized.svg": "/easy-fing-rebrand/static/media/instagram-colorized.62572c862d53f228aa8eff879e2e1d37.svg",
+    "index.html": "/easy-fing-rebrand/index.html",
+    "main.ac1e9cb9.css.map": "/easy-fing-rebrand/static/css/main.ac1e9cb9.css.map",
+    "main.3c5bc1cd.js.map": "/easy-fing-rebrand/static/js/main.3c5bc1cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac1e9cb9.css",
+    "static/js/main.3c5bc1cd.js"
+  ]
+}
