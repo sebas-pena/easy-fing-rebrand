@@ -24,7 +24,6 @@ const Cardsgallery = () => {
 	const handleChangeGallery = (e, index) => {
 		setPath([...path, cards[index].title])
 		setDataPath([...dataPath, index])
-		console.log(e)
 	}
 
 	return (
