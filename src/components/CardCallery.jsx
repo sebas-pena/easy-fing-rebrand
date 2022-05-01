@@ -80,7 +80,7 @@ const Cardsgallery = () => {
 				</div>
 			) : (
 				<div className="gallery__empaty">
-					<img src="/content/images/404.webp" alt="code 404" />
+					<img src="./content/images/404.webp" alt="code 404" />
 					<p>
 						Aún no hay material, si deseas puedes colaborar enviando un correo a
 						<span className="gallery__empaty-email">contacto@easyfing.com</span>
