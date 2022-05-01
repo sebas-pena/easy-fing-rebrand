@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc282089.css",
+    "main.js": "/static/js/main.883407f0.js",
+    "static/media/logo.png": "/static/media/logo.b278606f5bd3df1481a0.png",
+    "static/media/instagram-colorized.svg": "/static/media/instagram-colorized.62572c862d53f228aa8eff879e2e1d37.svg",
+    "index.html": "/index.html",
+    "main.cc282089.css.map": "/static/css/main.cc282089.css.map",
+    "main.883407f0.js.map": "/static/js/main.883407f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc282089.css",
+    "static/js/main.883407f0.js"
+  ]
+}
